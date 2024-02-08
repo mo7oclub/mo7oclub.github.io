@@ -1,0 +1,10 @@
+title: Eventos
+eventos:
+
+- title: Evento A
+  url: 2024-01-04-evento-a.html
+  date: 2024-01-06
+
+- title: Evento B
+  url: 2024-01-05-evento-a.html
+  date: 2024-01-05

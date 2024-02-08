@@ -24,8 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Página dedicada a concentrar motoclubes pelo Brasil.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+pix: contato@mo7o.club
 instagram_username: mo7oclub
-github_username:  mo7oclub
+lang: pt-BR
 
 # Build settings
 theme: minima

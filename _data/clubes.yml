@@ -1,0 +1,11 @@
+title: Moto Clubes
+clubes:
+- title: Resurgidos
+  city: Tiritama
+  uf: PE
+  url: resurgidos.html
+
+- title: Quilombolas Moto Grupo
+  city: União dos Palmares
+  uf: AL
+  url: quilombolas-moto-grupo.html
