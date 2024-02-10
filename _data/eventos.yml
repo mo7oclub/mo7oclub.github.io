@@ -17,6 +17,12 @@ eventos:
     city: Taquaratinga
     uf: PE
     date: 2024-03-29
+  
+  - title: Cabedelo motofest
+    # url: 2024-01-05-evento-a.html
+    city: Cabedelo
+    uf: PB
+    date: 2024-04-05
 
   - title: Tabira motofest
     # url: 2024-01-05-evento-a.html
@@ -29,3 +35,9 @@ eventos:
     city: Custódia
     uf: PE
     date: 2024-06-01
+
+  - title: Motochico 2024
+    # url: 2024-01-05-evento-a.html
+    city: Petrolina
+    uf: PE
+    date: 2024-07-11
