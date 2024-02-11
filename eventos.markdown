@@ -16,7 +16,7 @@ permalink: /eventos/
       });
    },
    filter() {
-      let value = document.querySelector("#filter-input").value;
+      let value = document.querySelector("#filter-input").value.toLowerCase();
       let events = {{site.data.eventos.eventos | jsonify}};
       
       this.eventos = events.filter((item) => {
