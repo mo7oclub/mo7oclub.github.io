@@ -22,7 +22,7 @@ permalink: /eventos/
       this.eventos = events.filter((item) => {
          let list = [];
          for(prop in item) {
-            item_value = item[prop]
+            item_value = item[prop].toLowerCase()
             list.push(item_value.includes(value))
          }
          return list.some(Boolean);
