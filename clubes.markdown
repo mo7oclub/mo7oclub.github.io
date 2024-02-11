@@ -12,7 +12,7 @@ permalink: /clubes/
   <th>Página</th>
 </thead>
 <tbody>
-  {% for item in site.data.clubes.clubes | sort: "uf"  %}
+  {% for item in site.data.clubes.clubes%}
       <tr>
         <td>{{ item.title }}</td>
         <td>{{ item.city }}</td>

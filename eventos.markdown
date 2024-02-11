@@ -3,32 +3,54 @@ layout: page
 title: Eventos
 permalink: /eventos/
 ---
-<!-- <ul>
-   {% for item in site.data.eventos.eventos | sort: "date" %}
-      <li><a href="{{ item.url }}">{{ item.title }} - {{item.date}}</a></li>
-   {% endfor %}
-</ul> -->
-{% for mes in site.data.eventos.mes | sort: "date" %}
-<h2>{{mes}}</h2>
-{% endfor %}
+
+<div x-data='{
+   "eventos": {{site.data.eventos.eventos | jsonify}},
+   sort(col) {
+      if(this.sortCol === col) this.sortAsc = !this.sortAsc;
+      this.sortCol = col;
+      this.eventos.sort((a, b) => {
+        if(a[this.sortCol] < b[this.sortCol]) return this.sortAsc?1:-1;
+        if(a[this.sortCol] > b[this.sortCol]) return this.sortAsc?-1:1;
+        return 0;
+      });
+   },
+   filter() {
+      let value = document.querySelector("#filter-input").value;
+      let events = {{site.data.eventos.eventos | jsonify}};
+      
+      this.eventos = events.filter((item) => {
+         let list = [];
+         for(prop in item) {
+            item_value = item[prop]
+            list.push(item_value.includes(value))
+         }
+         return list.some(Boolean);
+      });
+      
+   }
+}'>
+
+<input id="filter-input" class="search search-filter" type="text" x-on:keyup="filter()" placeholder="Pesquisar">
 <table>
-<thead>
-  <th>Data</th>
-  <th>Nome</th>
-  <th>Cidade</th>
-  <th>Estado</th>
-  <!-- <th>Link</th> -->
-</thead>
+   <thead>
+   <th x-on:click="sort('date')">Data</th>
+   <th x-on:click="sort('title')">Nome</th>
+   <th x-on:click="sort('city')">Cidade</th>
+   <th x-on:click="sort('uf')">Estado</th>
+   </thead>
 <tbody>
-  {% for item in site.data.eventos.eventos | sort: "date" %}
+  <template x-if="!eventos">
+      <tr><td colspan="4"><i>Loading...</i></td></tr>
+    </template>
+    <template x-for="evento in eventos">
       <tr>
-        <td>{{ item.date }}</td>
-        <td>{{ item.title }}</td>
-        <td>{{ item.city }}</td>
-        <td>{{ item.uf }}</td>
-        <!-- <td><a href="{{ item.url }}">Página do evento</a></td> -->
-        
+        <td x-text="evento.date"></td>   
+        <td x-text="evento.title"></td>   
+        <td x-text="evento.city"></td>   
+        <td x-text="evento.uf"></td>   
       </tr>
-   {% endfor %}
+    </template>
 </tbody>
 </table>
+</div>

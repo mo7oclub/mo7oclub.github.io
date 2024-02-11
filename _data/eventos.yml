@@ -6,11 +6,23 @@ eventos:
     uf: PE
     date: 2024-02-24
 
+  - title: 2º Milagres motofest
+    # url: 2024-01-05-evento-a.html
+    city: Milagres
+    uf: BA
+    date: 2024-03-15
+
   - title: Inauguração da sede resurgidos
     # url: 2024-01-04-evento-a.html
     city: Toritama
     uf: PE
     date: 2024-03-16
+
+  - title: 2º Penedo motofest
+    # url: 2024-01-05-evento-a.html
+    city: Penedo
+    uf: AL
+    date: 2024-03-22
 
   - title: 13º Taquaratinga motofest
     # url: 2024-01-05-evento-a.html
@@ -41,3 +53,9 @@ eventos:
     city: Petrolina
     uf: PE
     date: 2024-07-11
+
+  - title: 19º Campina Grande motofest 
+    # url: 2024-01-05-evento-a.html
+    city: Campina Grande
+    uf: PB
+    date: 2024-11-21
