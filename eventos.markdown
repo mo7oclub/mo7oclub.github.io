@@ -5,7 +5,10 @@ permalink: /eventos/
 ---
 
 <div x-data='{
+   "dt_atualizacao": {{site.data.eventos.dt_atualizacao | jsonify}},
    "eventos": {{site.data.eventos.eventos | jsonify}},
+   "options": { timeZone: "UTC"},
+   "lang": "pt-BR",
    sort(col) {
       if(this.sortCol === col) this.sortAsc = !this.sortAsc;
       this.sortCol = col;
@@ -31,7 +34,11 @@ permalink: /eventos/
    }
 }'>
 
-<input id="filter-input" class="search search-filter" type="text" x-on:keyup="filter()" placeholder="Pesquisar">
+<div>
+   <p>Atuualizado em: <span x-text="(new Date(dt_atualizacao)).toLocaleDateString(lang, options)"></span></p>
+   
+   <input id="filter-input" class="search search-filter" type="text" x-on:keyup="filter()" placeholder="Pesquisar evento">
+</div>
 <table>
    <thead>
    <th x-on:click="sort('date')">Data</th>
@@ -45,7 +52,7 @@ permalink: /eventos/
     </template>
     <template x-for="evento in eventos">
       <tr>
-        <td x-text="evento.date"></td>   
+        <td x-text="(new Date(evento.date)).toLocaleDateString(lang, options)"></td>   
         <td x-text="evento.title"></td>   
         <td x-text="evento.city"></td>   
         <td x-text="evento.uf"></td>   
