@@ -1,5 +1,5 @@
 title: Eventos
-dt_atualizacao: 2024-02-14
+dt_atualizacao: 2024-02-21
 eventos:
   -
     date: 2024-02-17
@@ -130,6 +130,11 @@ eventos:
     date: 2024-05-24
     title: 5° BARREIRAS MOTO NACIONAL
     city: BARREIRAS
+    uf: BA
+  -
+    date: 2024-05-25
+    title: MOTO PAULO AFONSO
+    city: PAULO AFONSO
     uf: BA
   -
     date: 2024-05-31
@@ -376,4 +381,3 @@ eventos:
     title: ANIVERSÁRIO PRESIDENTE CLEBER FIBRAS MC BAHIA
     city: ALAGOINHAS
     uf: BA
-
