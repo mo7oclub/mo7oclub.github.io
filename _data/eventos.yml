@@ -1,5 +1,5 @@
 title: Eventos
-dt_atualizacao: 2024-02-21
+dt_atualizacao: 2024-02-22
 eventos:
   -
     date: 2024-02-17
@@ -16,6 +16,21 @@ eventos:
     title: 5° ANIVERSÁRIO FALCÕES RAÇA LIBERTA
     city: FEIRA DE SANTANA
     uf: BA
+  -
+    date: 2024-02-24
+    title: IX ANIVERSÁRIO NACIONAES
+    city: GOIÂNIA
+    uf: GO
+  -
+    date: 2024-02-25
+    title: 8° ANIVERSÁRIO - CAVEIRAS SEM LIMITES
+    city: SAIRÉ
+    uf: PE
+  -
+    date: 2024-02-28
+    title: 21 ANOS DE GAVIÕES DO BITURY
+    city: BELO JARDIM
+    uf: PE
   -
     date: 2024-02-29
     title: TAQUARATINGA MOTOFEST
@@ -38,7 +53,7 @@ eventos:
     uf: PE
   -
     date: 2024-03-15
-    title: 7° ENCONTRO NAC MOTOCICLISTAS
+    title: 7° ENCONTRO NACIONAL MOTOCICLISTAS
     city: RIO DE CONTAS
     uf: BA
   -
@@ -110,6 +125,11 @@ eventos:
     date: 2024-04-27
     title: 8 ANIVERSARIO BLOOD BROTHERS MC
     city: SEABRA
+    uf: BA
+  -
+    date: 2024-05-03
+    title: 2 VALENTE MOTO FESTIVAL
+    city: VALENTE
     uf: BA
   -
     date: 2024-05-16
@@ -192,6 +212,11 @@ eventos:
     city: PETROLINA
     uf: PE
   -
+    date: 2024-07-11
+    title: MOTO CHICO
+    city: PETROLINA
+    uf: PE
+  -
     date: 2024-07-12
     title: SOUSA MOTO FEST
     city: SOUSA
@@ -252,6 +277,11 @@ eventos:
     city: CONCEIÇÃO DA BARRA
     uf: ES
   -
+    date: 2024-09-12
+    title: TRIUNFO MOTOFEST
+    city: TRIUNFO
+    uf: PE
+  -
     date: 2024-09-13
     title: 3° SAJ MOTOFEST
     city: STO. ANTÔNIO DE JESUS
@@ -291,6 +321,11 @@ eventos:
     title: 9° ANIVERSÁRIO DRUTAMONTES
     city: SALVADOR
     uf: BA
+  -
+    date: 2024-10-05
+    title: ANIVERSÁRIO DEUSES DO OLIMPO
+    city: RECIFE
+    uf: PE
   -
     date: 2024-10-11
     title: 2 TRI FESTIVAL DE NAZARÉ
