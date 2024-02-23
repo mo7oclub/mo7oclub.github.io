@@ -35,7 +35,7 @@ permalink: /eventos/
 }'>
 
 <div>
-   <p>Atuualizado em: <span x-text="(new Date(dt_atualizacao)).toLocaleDateString(lang, options)"></span></p>
+   <p>Atualizado em: <span x-text="(new Date(dt_atualizacao)).toLocaleDateString(lang, options)"></span></p>
    
    <input id="filter-input" class="search search-filter" type="text" x-on:keyup="filter()" placeholder="Pesquisar evento">
 </div>

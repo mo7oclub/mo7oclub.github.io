@@ -1,5 +1,5 @@
 title: Eventos
-dt_atualizacao: 2024-02-22
+dt_atualizacao: 2024-02-23
 eventos:
   -
     date: 2024-02-17
@@ -36,6 +36,11 @@ eventos:
     title: TAQUARATINGA MOTOFEST
     city: TAQUARATINGA DO NORTE
     uf: PE
+  -
+    date: 2024-03-01
+    title: CARIRI MOTOFEST
+    city: CRATO
+    uf: CE
   -
     date: 2024-03-05
     title: MOTO ROCK PRADO
@@ -192,6 +197,11 @@ eventos:
     city: CHAPADINHA
     uf: MA
   -
+    date: 2024-06-16
+    title: 7° ANIVERSÁRIO MC METE MARCHA
+    city: PEDRO CANÁRIO
+    uf: ES
+  -
     date: 2024-07-05
     title: 3° FESTIVAL DE INVERNO DA CIDADE DE SERRA GRANDE
     city: SERRA GRANDE
@@ -262,6 +272,11 @@ eventos:
     city: MUTUÍPE
     uf: BA
   -
+    date: 2024-08-16
+    title: 1° PREÁ MOTOFEST
+    city: PREÁ
+    uf: CE
+  -
     date: 2024-08-23
     title: 3° MOTOFEST AVES DE .PINA
     city: POJUCA
@@ -276,6 +291,11 @@ eventos:
     title: 2° MOTOFEST
     city: CONCEIÇÃO DA BARRA
     uf: ES
+  -
+    date: 2024-09-06
+    title: BAHIA IN MOTO
+    city: SALVADOR
+    uf: BA
   -
     date: 2024-09-12
     title: TRIUNFO MOTOFEST
