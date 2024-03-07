@@ -51,11 +51,11 @@ permalink: /eventos/
       <tr><td colspan="4"><i>Loading...</i></td></tr>
     </template>
     <template x-for="evento in eventos">
-      <tr>
-        <td x-text="(new Date(evento.date)).toLocaleDateString(lang, options)"></td>   
-        <td x-text="evento.title"></td>   
-        <td x-text="evento.city"></td>   
-        <td x-text="evento.uf"></td>   
+      <tr x-show="((new Date(evento.date)).setUTCHours(3, 0, 0, 0)) >= ((new Date()).setHours(0, 0, 0, 0))">
+         <td x-text="(new Date(evento.date)).toLocaleDateString(lang, options)"></td>
+         <td x-text="evento.title"></td>   
+         <td x-text="evento.city"></td>   
+         <td x-text="evento.uf"></td>   
       </tr>
     </template>
 </tbody>

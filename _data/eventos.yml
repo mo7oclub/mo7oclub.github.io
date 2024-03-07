@@ -47,10 +47,20 @@ eventos:
     city: PRADO
     uf: BA
   -
+    date: 2024-03-06
+    title: PRADO MOTOROCK
+    city: PRADO
+    uf: BA
+  -
     date: 2024-03-09
     title: 10 ANOS ITALVA MG
     city: ITALVA
     uf: RJ
+  -
+    date: 2024-03-09
+    title: 6 ANIVERSÁRIO CORVOS MC
+    city: CAMPINA GRANDE
+    uf: PB
   -
     date: 2024-03-15
     title: XI PESQUEIRA MOTOFEST
@@ -82,6 +92,11 @@ eventos:
     city: CARAÚBAS
     uf: RN
   -
+    date: 2024-03-16
+    title: 6 ANIVERSÁRIO KARKARÁ MC
+    city: UMBIZEIRO
+    uf: PB
+  -
     date: 2024-03-22
     title: 1° MOTO FEST
     city: LAURO DE FREITAS
@@ -92,6 +107,11 @@ eventos:
     city: PENEDO
     uf: AL
   -
+    date: 2024-03-24
+    title: PASSEIO DA PAIXÃO
+    city: CARUARU
+    uf: PE
+  -
     date: 2024-03-29
     title: 13º TAQUARATINGA MOTOFEST
     city: TAQUARATINGA
@@ -100,6 +120,11 @@ eventos:
     date: 2024-04-05
     title: CABEDELO MOTOFEST
     city: CABEDELO
+    uf: PB
+  -
+    date: 2024-04-05
+    title: 10 ANOS  SÃO BENTO MOTOFEST
+    city: SÃO BENTO
     uf: PB
   -
     date: 2024-04-06
@@ -122,10 +147,20 @@ eventos:
     city: CÍCERO DANTAS
     uf: BA
   -
+    date: 2024-04-21
+    title: 14 ANOS DE BANDEIRA DESBRASADOS
+    city: JUIZ DE FORA
+    uf: MG
+  -
     date: 2024-04-26
     title: VIII ENC. NACIONAL MOTOCICLISTAS MOTOROCKER
     city: PARNAÍBA
     uf: PI
+  -
+    date: 2024-04-26
+    title: 25° ENCONTRO NACIONAL DE MOTOCICLISTAS
+    city: PARAIBA DO SUL
+    uf: RJ
   -
     date: 2024-04-27
     title: 8 ANIVERSARIO BLOOD BROTHERS MC
@@ -136,6 +171,11 @@ eventos:
     title: 2 VALENTE MOTO FESTIVAL
     city: VALENTE
     uf: BA
+  -
+    date: 2024-05-03
+    title: SABUGY MOTOFEST
+    city: SANTA LUZIA
+    uf: PB
   -
     date: 2024-05-16
     title: 15° SALGUEIRO MOTO FEST
@@ -156,6 +196,11 @@ eventos:
     title: 5° BARREIRAS MOTO NACIONAL
     city: BARREIRAS
     uf: BA
+  -
+    date: 2024-05-24
+    title: CACTUS MOTO FEST
+    city: CURRAIS NOVOS
+    uf: RN
   -
     date: 2024-05-25
     title: MOTO PAULO AFONSO
@@ -197,7 +242,7 @@ eventos:
     city: CHAPADINHA
     uf: MA
   -
-    date: 2024-06-16
+    date: 2024-06-23
     title: 7° ANIVERSÁRIO MC METE MARCHA
     city: PEDRO CANÁRIO
     uf: ES
@@ -277,6 +322,11 @@ eventos:
     city: PREÁ
     uf: CE
   -
+    date: 2024-08-16
+    title: 10 IATI MOTOFEST
+    city: IATI
+    uf: PE
+  -
     date: 2024-08-23
     title: 3° MOTOFEST AVES DE .PINA
     city: POJUCA
@@ -311,6 +361,11 @@ eventos:
     title: 2° MOTO FEST PÉ DE SER.
     city: PÉ DE SERRA
     uf: BA
+  -
+    date: 2024-09-13
+    title: VI SANTANA DO IPANEMA MOTOFEST
+    city: SANTANA DO IPANEMA
+    uf: AL
   -
     date: 2024-09-14
     title: 7° ANIVERSÁRIO ANJOS NEGROS MC
@@ -411,6 +466,11 @@ eventos:
     title: 19º CAMPINA GRANDE MOTOFEST
     city: CAMPINA GRANDE
     uf: PB
+  -
+    date: 2024-11-29
+    title: 19 GARANHUNS MOTOFEST
+    city: GARANHUNS
+    uf: PE
   -
     date: 2024-11-30
     title: ANIVERSÁRIO T-REX
