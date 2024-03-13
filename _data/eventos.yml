@@ -118,7 +118,7 @@ eventos:
     uf: PB
   -
     date: 2024-04-05
-    title: 10 ANOS  SÃO BENTO MOTOFEST
+    title: 10 ANOS SÃO BENTO MOTOFEST 
     city: SÃO BENTO
     uf: PB
   -
@@ -142,9 +142,14 @@ eventos:
     city: CÍCERO DANTAS
     uf: BA
   -
+    date: 2024-04-19
+    title: ÁGUIA BRANCA MOTO FEST
+    city: ÁGUIA BRANCA
+    uf: ES
+  -
     date: 2024-04-21
     title: 14 ANOS DE BANDEIRA DESBRASADOS
-    city: JUIZ DE FORA
+    city: JUIZ DE FORA 
     uf: MG
   -
     date: 2024-04-26
@@ -361,6 +366,11 @@ eventos:
     title: VI SANTANA DO IPANEMA MOTOFEST
     city: SANTANA DO IPANEMA
     uf: AL
+  -
+    date: 2024-09-13
+    title: 3° SAJ MOTOFEST
+    city: SANTO ANTÔNIO DE JESUS
+    uf: BA
   -
     date: 2024-09-14
     title: 7° ANIVERSÁRIO ANJOS NEGROS MC
