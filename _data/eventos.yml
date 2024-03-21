@@ -1,5 +1,5 @@
 title: Eventos
-dt_atualizacao: 2024-03-14
+dt_atualizacao: 2024-03-21
 eventos:
   -
     date: 2024-02-17
@@ -112,15 +112,35 @@ eventos:
     city: CARUARU
     uf: PE
   -
+    date: 2024-03-24
+    title: BATE E VOLTA SOLIDÁRIO
+    city: GOVERNADOR MANGABEIRA
+    uf: BA
+  -
+    date: 2024-03-29
+    title: ANIVERSÁRIO CAVEIRAS DO LITORAL MC
+    city: BARRA DE MARATAÍZES
+    uf: ES
+  -
     date: 2024-04-05
     title: CABEDELO MOTOFEST
     city: CABEDELO
     uf: PB
   -
     date: 2024-04-05
-    title: 10 ANOS SÃO BENTO MOTOFEST 
+    title: 10 ANOS  SÃO BENTO MOTOFEST 
     city: SÃO BENTO
     uf: PB
+  -
+    date: 2024-04-05
+    title: MOTO & ROCK FEST
+    city: CONCEIÇÃO DA APARECIDA
+    uf: MG
+  -
+    date: 2024-04-05
+    title: MOTOMOC
+    city: MONTES CLAROS
+    uf: MG
   -
     date: 2024-04-06
     title: 2° MATA GRANDE MOTO FEST
@@ -129,6 +149,11 @@ eventos:
   -
     date: 2024-04-07
     title: 1 ANIVERSÁRIO CAÇADORES MG
+    city: SALVADOR
+    uf: BA
+  -
+    date: 2024-04-07
+    title: AVINERSÁRIO CAÇADORES MG
     city: SALVADOR
     uf: BA
   -
@@ -147,10 +172,20 @@ eventos:
     city: ÁGUIA BRANCA
     uf: ES
   -
+    date: 2024-04-19
+    title: MOTOFEST PIRAPORANGA
+    city: PIRAPORANGA
+    uf: MG
+  -
     date: 2024-04-21
     title: 14 ANOS DE BANDEIRA DESBRASADOS
     city: JUIZ DE FORA 
     uf: MG
+  -
+    date: 2024-04-23
+    title: SAQUA MOTO ROCK
+    city: SAQUAREMA
+    uf: RJ
   -
     date: 2024-04-26
     title: VIII ENC. NACIONAL MOTOCICLISTAS MOTOROCKER
@@ -161,6 +196,11 @@ eventos:
     title: 25° ENCONTRO NACIONAL DE MOTOCICLISTAS
     city: PARAIBA DO SUL
     uf: RJ
+  -
+    date: 2024-04-26
+    title: IÚNA MOTOFEST
+    city: IUNA
+    uf: ES
   -
     date: 2024-04-27
     title: 8 ANIVERSARIO BLOOD BROTHERS MC
@@ -202,7 +242,7 @@ eventos:
     city: CURRAIS NOVOS
     uf: RN
   -
-    date: 2024-04-25
+    date: 2024-05-25
     title: MOTO PAULO AFONSO
     city: PAULO AFONSO
     uf: BA
@@ -237,10 +277,20 @@ eventos:
     city: CARANGOLA
     uf: MG
   -
+    date: 2024-06-14
+    title: TIAS MOTOROCK
+    city: SÃO JOÃO DO PARAISO
+    uf: MG
+  -
     date: 2024-06-15
     title: 5° BATE E FICA PELICANO DO ASFALTO
     city: CHAPADINHA
     uf: MA
+  -
+    date: 2024-06-22
+    title: ENCONTRO NACIONAL DE MOTOCICLISTAS
+    city: DUQUE DE CAXIAS
+    uf: RJ
   -
     date: 2024-06-23
     title: 7° ANIVERSÁRIO MC METE MARCHA
@@ -277,6 +327,16 @@ eventos:
     city: SOUSA
     uf: PB
   -
+    date: 2024-07-12
+    title: PEDRA LAVRADA MOTOFEST
+    city: PEDRA LAVRADA
+    uf: PB
+  -
+    date: 2024-07-13
+    title: MOTO FEST
+    city: PONTÕES
+    uf: MG
+  -
     date: 2024-07-18
     title: CAPITAL MOTO WEEK
     city: BRASÍLIA
@@ -307,6 +367,11 @@ eventos:
     city: DELMIRO GOUVEIA
     uf: AL
   -
+    date: 2024-08-02
+    title: LOST RIDERS CAPARAÓ MOTO FEST
+    city: ALEGRE
+    uf: ES
+  -
     date: 2024-08-09
     title: 2° EUNÁPOLIS MÔFOROCK
     city: EUNÁPOLIS
@@ -326,6 +391,11 @@ eventos:
     title: 10 IATI MOTOFEST
     city: IATI
     uf: PE
+  -
+    date: 2024-08-16
+    title: ALAGOINHAS MOTO FEST
+    city: ALAGOINHAS
+    uf: BA
   -
     date: 2024-08-23
     title: 3° MOTOFEST AVES DE .PINA
@@ -347,6 +417,16 @@ eventos:
     city: SALVADOR
     uf: BA
   -
+    date: 2024-09-06
+    title: MOTO FEST
+    city: CONCEIÇÃO DA BARRA
+    uf: ES
+  -
+    date: 2024-09-06
+    title: AMARGOSA MOTO FESTIVAL
+    city: AMARGOSA
+    uf: BA
+  -
     date: 2024-09-12
     title: TRIUNFO MOTOFEST
     city: TRIUNFO
@@ -358,7 +438,7 @@ eventos:
     uf: BA
   -
     date: 2024-09-13
-    title: 2° MOTO FEST PÉ DE SER.
+    title: 2° MOTO FEST PÉ DE SERRA
     city: PÉ DE SERRA
     uf: BA
   -
@@ -392,13 +472,28 @@ eventos:
     city: CRUZ DAS ALMAS
     uf: BA
   -
+    date: 2024-09-27
+    title: ENCONTRO DE MOTOCICLISTAS
+    city: TOUROS
+    uf: RN
+  -
     date: 2024-09-28
     title: 9° JANDAÍ.
     city: JANDAÍ
     uf: BA
   -
+    date: 2024-09-28
+    title: JANDAÍRA
+    city: JANDAÍRA
+    uf: BA
+  -
+    date: 2024-09-28
+    title: DEUSES DO OLIMPO
+    city: ALDEIA DOS CAMARÁS
+    uf: PE
+  -
     date: 2024-10-05
-    title: 9° ANIVERSÁRIO DRUTAMONTES
+    title: 9° ANIVERSÁRIO BRUTAMONTES
     city: SALVADOR
     uf: BA
   -
@@ -406,6 +501,11 @@ eventos:
     title: ANIVERSÁRIO DEUSES DO OLIMPO
     city: RECIFE
     uf: PE
+  -
+    date: 2024-10-10
+    title: MOTO FEST
+    city: TIANGUÁ
+    uf: CE
   -
     date: 2024-10-11
     title: 2 TRI FESTIVAL DE NAZARÉ
@@ -421,6 +521,11 @@ eventos:
     title: 5° ITAPEMIRIM PRAIA MOTOFEST
     city: ITAPEMIRIM
     uf: ES
+  -
+    date: 2024-10-18
+    title: GRAVATÁ MOTOGEST
+    city: GRAVATÁ
+    uf: PE
   -
     date: 2024-10-19
     title: 10° ANIVERSÁRIO FUNDAÇÃO WOLF MC
@@ -471,6 +576,11 @@ eventos:
     title: 19º CAMPINA GRANDE MOTOFEST
     city: CAMPINA GRANDE
     uf: PB
+  -
+    date: 2024-11-23
+    title: ANIVERSÁRIUO MC GAVIÕES DA ESTRADA
+    city: AQUIRAZ
+    uf: CE
   -
     date: 2024-11-29
     title: 19 GARANHUNS MOTOFEST
