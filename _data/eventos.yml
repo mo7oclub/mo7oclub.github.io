@@ -1,613 +1,496 @@
 title: Eventos
-dt_atualizacao: 2024-03-21
+dt_atualizacao: 2024-04-16
 eventos:
-  -
-    date: 2024-02-17
-    title: 26° ANIVERSÁRIO FALCÕES RAÇA LIBERTA
-    city: SANTOS
-    uf: SP
-  -
-    date: 2024-02-24
-    title: 2º ANIVERSÁRIO DO INDEPENDENTES DO PAJEÚ
-    city: AFOGADOS DA INGAZEIRA
-    uf: PE
-  -
-    date: 2024-02-24
-    title: 5° ANIVERSÁRIO FALCÕES RAÇA LIBERTA
-    city: FEIRA DE SANTANA
-    uf: BA
-  -
-    date: 2024-02-24
-    title: IX ANIVERSÁRIO NACIONAES
-    city: GOIÂNIA
-    uf: GO
-  -
-    date: 2024-02-25
-    title: 8° ANIVERSÁRIO - CAVEIRAS SEM LIMITES
-    city: SAIRÉ
-    uf: PE
-  -
-    date: 2024-02-28
-    title: 21 ANOS DE GAVIÕES DO BITURY
-    city: BELO JARDIM
-    uf: PE
-  -
-    date: 2024-02-29
-    title: TAQUARATINGA MOTOFEST
-    city: TAQUARATINGA DO NORTE
-    uf: PE
-  -
-    date: 2024-03-01
-    title: CARIRI MOTOFEST
-    city: CRATO
-    uf: CE
-  -
-    date: 2024-03-05
-    title: MOTO ROCK PRADO
-    city: PRADO
-    uf: BA
-  -
-    date: 2024-03-06
-    title: PRADO MOTOROCK
-    city: PRADO
-    uf: BA
-  -
-    date: 2024-03-09
-    title: 10 ANOS ITALVA MG
-    city: ITALVA
-    uf: RJ
-  -
-    date: 2024-03-09
-    title: 6 ANIVERSÁRIO CORVOS MC
-    city: CAMPINA GRANDE
-    uf: PB
-  -
-    date: 2024-03-15
-    title: XI PESQUEIRA MOTOFEST
-    city: PESQUEIRA
-    uf: PE
-  -
-    date: 2024-03-15
-    title: 7° ENCONTRO NACIONAL MOTOCICLISTAS
-    city: RIO DE CONTAS
-    uf: BA
-  -
-    date: 2024-03-16
-    title: INAUGURAÇÃO DA SEDE RESURGIDOS
-    city: TORITAMA
-    uf: PE
-  -
-    date: 2024-03-16
-    title: CORAÇÃO MOTO FEST
-    city: CORAÇÃO DE MARIA
-    uf: BA
-  -
-    date: 2024-03-16
-    title: 2° MOTOFEST
-    city: MILAGRES
-    uf: BA
-  -
-    date: 2024-03-16
-    title: 1° BATE E FICA DAS CARAUBEIRAS
-    city: CARAÚBAS
-    uf: RN
-  -
-    date: 2024-03-16
-    title: 6 ANIVERSÁRIO KARKARÁ MC
-    city: UMBIZEIRO
-    uf: PB
-  -
-    date: 2024-03-22
-    title: 1° MOTO FEST
-    city: LAURO DE FREITAS
-    uf: BA
-  -
-    date: 2024-03-22
-    title: 12° PENEDO MOTO FEST
-    city: PENEDO
-    uf: AL
-  -
-    date: 2024-03-24
-    title: PASSEIO DA PAIXÃO
-    city: CARUARU
-    uf: PE
-  -
-    date: 2024-03-24
-    title: BATE E VOLTA SOLIDÁRIO
-    city: GOVERNADOR MANGABEIRA
-    uf: BA
-  -
-    date: 2024-03-29
-    title: ANIVERSÁRIO CAVEIRAS DO LITORAL MC
-    city: BARRA DE MARATAÍZES
-    uf: ES
-  -
-    date: 2024-04-05
-    title: CABEDELO MOTOFEST
-    city: CABEDELO
-    uf: PB
-  -
-    date: 2024-04-05
-    title: 10 ANOS  SÃO BENTO MOTOFEST 
-    city: SÃO BENTO
-    uf: PB
-  -
-    date: 2024-04-05
-    title: MOTO & ROCK FEST
-    city: CONCEIÇÃO DA APARECIDA
-    uf: MG
-  -
-    date: 2024-04-05
-    title: MOTOMOC
-    city: MONTES CLAROS
-    uf: MG
-  -
-    date: 2024-04-06
-    title: 2° MATA GRANDE MOTO FEST
-    city: MATA GRANDE
-    uf: AL
-  -
-    date: 2024-04-07
-    title: 1 ANIVERSÁRIO CAÇADORES MG
-    city: SALVADOR
-    uf: BA
-  -
-    date: 2024-04-07
-    title: AVINERSÁRIO CAÇADORES MG
-    city: SALVADOR
-    uf: BA
-  -
-    date: 2024-04-13
-    title: 13 MOTO FEST POÇO VERDE
-    city: POÇO VERDE
-    uf: SE
-  -
-    date: 2024-04-19
-    title: BOM CONCELHO MOTO WEEK
-    city: CÍCERO DANTAS
-    uf: BA
-  -
-    date: 2024-04-19
-    title: ÁGUIA BRANCA MOTO FEST
-    city: ÁGUIA BRANCA
-    uf: ES
-  -
-    date: 2024-04-19
-    title: MOTOFEST PIRAPORANGA
-    city: PIRAPORANGA
-    uf: MG
-  -
-    date: 2024-04-21
-    title: 14 ANOS DE BANDEIRA DESBRASADOS
-    city: JUIZ DE FORA 
-    uf: MG
-  -
-    date: 2024-04-23
-    title: SAQUA MOTO ROCK
-    city: SAQUAREMA
-    uf: RJ
-  -
-    date: 2024-04-26
-    title: VIII ENC. NACIONAL MOTOCICLISTAS MOTOROCKER
-    city: PARNAÍBA
-    uf: PI
-  -
-    date: 2024-04-26
-    title: 25° ENCONTRO NACIONAL DE MOTOCICLISTAS
-    city: PARAIBA DO SUL
-    uf: RJ
-  -
-    date: 2024-04-26
-    title: IÚNA MOTOFEST
-    city: IUNA
-    uf: ES
-  -
-    date: 2024-04-27
-    title: 8 ANIVERSARIO BLOOD BROTHERS MC
-    city: SEABRA
-    uf: BA
-  -
-    date: 2024-05-03
-    title: 2 VALENTE MOTO FESTIVAL
-    city: VALENTE
-    uf: BA
-  -
-    date: 2024-05-03
-    title: SABUGY MOTOFEST
-    city: SANTA LUZIA
-    uf: PB
-  -
-    date: 2024-05-16
-    title: 15° SALGUEIRO MOTO FEST
-    city: SALGUEIRO
-    uf: PE
-  -
-    date: 2024-05-17
-    title: 5° BURITIS MOTOFEST
-    city: BURITIS
-    uf: MG
-  -
-    date: 2024-05-24
-    title: TABIRA MOTOFEST
-    city: TABIRA
-    uf: PE
-  -
-    date: 2024-05-24
-    title: 5° BARREIRAS MOTO NACIONAL
-    city: BARREIRAS
-    uf: BA
-  -
-    date: 2024-05-24
-    title: CACTUS MOTO FEST
-    city: CURRAIS NOVOS
-    uf: RN
-  -
-    date: 2024-05-25
-    title: MOTO PAULO AFONSO
-    city: PAULO AFONSO
-    uf: BA
-  -
-    date: 2024-05-31
-    title: CAMPOS MOTO FEST
-    city: CAMPO DOS GOYTACAZAES
-    uf: RJ
-  -
-    date: 2024-06-01
-    title: CUSTÓDIA MOTOFEST 2024
-    city: CUSTÓDIA
-    uf: PE
-  -
-    date: 2024-06-01
-    title: BATE FICA 2024
-    city: CONSELHEIRO PENA
-    uf: MG
-  -
-    date: 2024-06-07
-    title: XXVIII ENCONTRO INTER. DE MOTOCICLISTAS
-    city: MIGUEL PEREIRA
-    uf: RJ
-  -
-    date: 2024-06-09
-    title: FEIJOADA DOS MOTOCICLISTAS DE SERROLÂNDIA
-    city: SERROLÂNDIA
-    uf: BA
-  -
-    date: 2024-06-14
-    title: 22° ANIVERSÁRIO MC PAPA ROAD
-    city: CARANGOLA
-    uf: MG
-  -
-    date: 2024-06-14
-    title: TIAS MOTOROCK
-    city: SÃO JOÃO DO PARAISO
-    uf: MG
-  -
-    date: 2024-06-15
-    title: 5° BATE E FICA PELICANO DO ASFALTO
-    city: CHAPADINHA
-    uf: MA
-  -
-    date: 2024-06-22
-    title: ENCONTRO NACIONAL DE MOTOCICLISTAS
-    city: DUQUE DE CAXIAS
-    uf: RJ
-  -
-    date: 2024-06-23
-    title: 7° ANIVERSÁRIO MC METE MARCHA
-    city: PEDRO CANÁRIO
-    uf: ES
-  -
-    date: 2024-07-05
-    title: 3° FESTIVAL DE INVERNO DA CIDADE DE SERRA GRANDE
-    city: SERRA GRANDE
-    uf: PB
-  -
-    date: 2024-07-06
-    title: 25 ANOS AVENTUREIROS DA LIBERDADE MC
-    city: NOVA LIMA
-    uf: MG
-  -
-    date: 2024-07-07
-    title: GERAIZEIROS MOTO ROCK
-    city: ESPÍNOSA
-    uf: MG
-  -
-    date: 2024-07-11
-    title: MOTOCHICO 2024
-    city: PETROLINA
-    uf: PE
-  -
-    date: 2024-07-11
-    title: MOTO CHICO
-    city: PETROLINA
-    uf: PE
-  -
-    date: 2024-07-12
-    title: SOUSA MOTO FEST
-    city: SOUSA
-    uf: PB
-  -
-    date: 2024-07-12
-    title: PEDRA LAVRADA MOTOFEST
-    city: PEDRA LAVRADA
-    uf: PB
-  -
-    date: 2024-07-13
-    title: MOTO FEST
-    city: PONTÕES
-    uf: MG
-  -
-    date: 2024-07-18
-    title: CAPITAL MOTO WEEK
-    city: BRASÍLIA
-    uf: DF
-  -
-    date: 2024-07-19
-    title: 10° EDIÇÃO MOTOFEST - MC OS TARJA PRETA
-    city: COELHO NETO
-    uf: MA
-  -
-    date: 2024-07-26
-    title: ALAGOAS MOTO ENCONTRO
-    city: MACEIÓ
-    uf: AL
-  -
-    date: 2024-07-27
-    title: 3° ANIVERSÁRIO MC TEMPO LIVRE
-    city: VALENTE
-    uf: BA
-  -
-    date: 2024-08-02
-    title: 2° ITAETÊ MOTO FEST
-    city: ITAETÊ
-    uf: BA
-  -
-    date: 2024-08-02
-    title: DELMIRO GOUVEIA MOTOFEST
-    city: DELMIRO GOUVEIA
-    uf: AL
-  -
-    date: 2024-08-02
-    title: LOST RIDERS CAPARAÓ MOTO FEST
-    city: ALEGRE
-    uf: ES
-  -
-    date: 2024-08-09
-    title: 2° EUNÁPOLIS MÔFOROCK
-    city: EUNÁPOLIS
-    uf: BA
-  -
-    date: 2024-08-09
-    title: 2° MOTUÍPE
-    city: MUTUÍPE
-    uf: BA
-  -
-    date: 2024-08-16
-    title: 1° PREÁ MOTOFEST
-    city: PREÁ
-    uf: CE
-  -
-    date: 2024-08-16
-    title: 10 IATI MOTOFEST
-    city: IATI
-    uf: PE
-  -
-    date: 2024-08-16
-    title: ALAGOINHAS MOTO FEST
-    city: ALAGOINHAS
-    uf: BA
-  -
-    date: 2024-08-23
-    title: 3° MOTOFEST AVES DE .PINA
-    city: POJUCA
-    uf: BA
-  -
-    date: 2024-08-30
-    title: 2° MOTOFEST IRON WOLVES MC
-    city: MIMOSO DO SUL
-    uf: ES
-  -
-    date: 2024-09-06
-    title: 2° MOTOFEST
-    city: CONCEIÇÃO DA BARRA
-    uf: ES
-  -
-    date: 2024-09-06
-    title: BAHIA IN MOTO
-    city: SALVADOR
-    uf: BA
-  -
-    date: 2024-09-06
-    title: MOTO FEST
-    city: CONCEIÇÃO DA BARRA
-    uf: ES
-  -
-    date: 2024-09-06
-    title: AMARGOSA MOTO FESTIVAL
-    city: AMARGOSA
-    uf: BA
-  -
-    date: 2024-09-12
-    title: TRIUNFO MOTOFEST
-    city: TRIUNFO
-    uf: PE
-  -
-    date: 2024-09-13
-    title: 3° SAJ MOTOFEST
-    city: STO. ANTÔNIO DE JESUS
-    uf: BA
-  -
-    date: 2024-09-13
-    title: 2° MOTO FEST PÉ DE SERRA
-    city: PÉ DE SERRA
-    uf: BA
-  -
-    date: 2024-09-13
-    title: VI SANTANA DO IPANEMA MOTOFEST
-    city: SANTANA DO IPANEMA
-    uf: AL
-  -
-    date: 2024-09-13
-    title: 3° SAJ MOTOFEST
-    city: SANTO ANTÔNIO DE JESUS
-    uf: BA
-  -
-    date: 2024-09-14
-    title: 7° ANIVERSÁRIO ANJOS NEGROS MC
-    city: NANUQUE
-    uf: MG
-  -
-    date: 2024-09-20
-    title: 2° MOTOFEST BALA EST.DEIRO
-    city: INHAMBUPE
-    uf: BA
-  -
-    date: 2024-09-20
-    title: 3° SÍTIO DO CONDE MOTO PRAIA
-    city: SÍTIO DO CONDE
-    uf: BA
-  -
-    date: 2024-09-27
-    title: MOTO CRUZ
-    city: CRUZ DAS ALMAS
-    uf: BA
-  -
-    date: 2024-09-27
-    title: ENCONTRO DE MOTOCICLISTAS
-    city: TOUROS
-    uf: RN
-  -
-    date: 2024-09-28
-    title: 9° JANDAÍ.
-    city: JANDAÍ
-    uf: BA
-  -
-    date: 2024-09-28
-    title: JANDAÍRA
-    city: JANDAÍRA
-    uf: BA
-  -
-    date: 2024-09-28
-    title: DEUSES DO OLIMPO
-    city: ALDEIA DOS CAMARÁS
-    uf: PE
-  -
-    date: 2024-10-05
-    title: 9° ANIVERSÁRIO BRUTAMONTES
-    city: SALVADOR
-    uf: BA
-  -
-    date: 2024-10-05
-    title: ANIVERSÁRIO DEUSES DO OLIMPO
-    city: RECIFE
-    uf: PE
-  -
-    date: 2024-10-10
-    title: MOTO FEST
-    city: TIANGUÁ
-    uf: CE
-  -
-    date: 2024-10-11
-    title: 2 TRI FESTIVAL DE NAZARÉ
-    city: NAZARÉ
-    uf: BA
-  -
-    date: 2024-10-11
-    title: 2 ENCONTRO DE MOTOCASAIS DO NORDESTE
-    city: JOÃO PESSOA
-    uf: PB
-  -
-    date: 2024-10-18
-    title: 5° ITAPEMIRIM PRAIA MOTOFEST
-    city: ITAPEMIRIM
-    uf: ES
-  -
-    date: 2024-10-18
-    title: GRAVATÁ MOTOGEST
-    city: GRAVATÁ
-    uf: PE
-  -
-    date: 2024-10-19
-    title: 10° ANIVERSÁRIO FUNDAÇÃO WOLF MC
-    city: SALVADOR
-    uf: BA
-  -
-    date: 2024-10-25
-    title: JEQUIÉ MOTO CAR
-    city: JEQUIÉ
-    uf: BA
-  -
-    date: 2024-10-31
-    title: 6° CANES MOTO FEST
-    city: CANAVIEIRAS
-    uf: BA
-  -
-    date: 2024-11-03
-    title: 9° ANIVERSÁRIO MOTO CLUBE JORRENSE
-    city: ALAGOINHAS
-    uf: BA
-  -
-    date: 2024-11-07
-    title: MEGA MOTO FEIRA
-    city: FEIRA DE SANTANA
-    uf: BA
-  -
-    date: 2024-11-08
-    title: INHAPI MOTO FEST - MC TIGRE DOURADO
-    city: INHAPI
-    uf: AL
-  -
-    date: 2024-11-08
-    title: EMOCAP - ENC.MOTOCICLISTAS DO CARIRI PARAIBANO
-    city: MONTEIRO
-    uf: PB
-  -
-    date: 2024-11-09
-    title: 19° ANIVERSÁRIO DO MC FÊNIX BRASIL
-    city: RIO DAS OSTRAS
-    uf: RJ
-  -
-    date: 2024-11-15
-    title: ENCONTRO NACIONAL DE MOTOCICLISTAS
-    city: ITUAÇU
-    uf: BA
-  -
-    date: 2024-11-21
-    title: 19º CAMPINA GRANDE MOTOFEST
-    city: CAMPINA GRANDE
-    uf: PB
-  -
-    date: 2024-11-23
-    title: ANIVERSÁRIUO MC GAVIÕES DA ESTRADA
-    city: AQUIRAZ
-    uf: CE
-  -
-    date: 2024-11-29
-    title: 19 GARANHUNS MOTOFEST
-    city: GARANHUNS
-    uf: PE
-  -
-    date: 2024-11-30
-    title: ANIVERSÁRIO T-REX
-    city: ALAGOINHAS
-    uf: BA
-  -
-    date: 2024-12-06
-    title: 3° DIVINO MOTOFEST E 5° ANIVERSÁRIO DOS INÚTEIS MG
-    city: DIVINO
-    uf: MG
-  -
-    date: 2024-12-08
-    title: 2° BATE E VOLTA ROTA DO SERTÃO DO FOX MC
-    city: NOSSA SRA. DA GLÓRIA
-    uf: SE
-  -
-    date: 2024-12-12
-    title: BYE BYE
-    city: SENHOR DO BONFIM
-    uf: BA
-  -
-    date: 2024-12-21
-    title: ANIVERSÁRIO PRESIDENTE CLEBER FIBRAS MC BAHIA
-    city: ALAGOINHAS
-    uf: BA
+- city: SANTOS
+  date: 2024-02-17
+  title: 26° ANIVERSÁRIO FALCÕES RAÇA LIBERTA
+  uf: SP
+- city: AFOGADOS DA INGAZEIRA
+  date: 2024-02-24
+  title: 2º ANIVERSÁRIO DO INDEPENDENTES DO PAJEÚ
+  uf: PE
+- city: FEIRA DE SANTANA
+  date: 2024-02-24
+  title: 5° ANIVERSÁRIO FALCÕES RAÇA LIBERTA
+  uf: BA
+- city: GOIÂNIA
+  date: 2024-02-24
+  title: IX ANIVERSÁRIO NACIONAES
+  uf: GO
+- city: SAIRÉ
+  date: 2024-02-25
+  title: 8° ANIVERSÁRIO - CAVEIRAS SEM LIMITES
+  uf: PE
+- city: BELO JARDIM
+  date: 2024-02-28
+  title: 21 ANOS DE GAVIÕES DO BITURY
+  uf: PE
+- city: TAQUARATINGA DO NORTE
+  date: 2024-02-29
+  title: TAQUARATINGA MOTOFEST
+  uf: PE
+- city: CRATO
+  date: 2024-03-01
+  title: CARIRI MOTOFEST
+  uf: CE
+- city: PRADO
+  date: 2024-03-05
+  title: MOTO ROCK PRADO
+  uf: BA
+- city: PRADO
+  date: 2024-03-06
+  title: PRADO MOTOROCK
+  uf: BA
+- city: ITALVA
+  date: 2024-03-09
+  title: 10 ANOS ITALVA MG
+  uf: RJ
+- city: CAMPINA GRANDE
+  date: 2024-03-09
+  title: 6 ANIVERSÁRIO CORVOS MC
+  uf: PB
+- city: PESQUEIRA
+  date: 2024-03-15
+  title: XI PESQUEIRA MOTOFEST
+  uf: PE
+- city: RIO DE CONTAS
+  date: 2024-03-15
+  title: 7° ENCONTRO NACIONAL MOTOCICLISTAS
+  uf: BA
+- city: TORITAMA
+  date: 2024-03-16
+  title: INAUGURAÇÃO DA SEDE RESURGIDOS
+  uf: PE
+- city: CORAÇÃO DE MARIA
+  date: 2024-03-16
+  title: CORAÇÃO MOTO FEST
+  uf: BA
+- city: MILAGRES
+  date: 2024-03-16
+  title: 2° MOTOFEST
+  uf: BA
+- city: CARAÚBAS
+  date: 2024-03-16
+  title: 1° BATE E FICA DAS CARAUBEIRAS
+  uf: RN
+- city: UMBIZEIRO
+  date: 2024-03-16
+  title: 6 ANIVERSÁRIO KARKARÁ MC
+  uf: PB
+- city: LAURO DE FREITAS
+  date: 2024-03-22
+  title: 1° MOTO FEST
+  uf: BA
+- city: PENEDO
+  date: 2024-03-22
+  title: 12° PENEDO MOTO FEST
+  uf: AL
+- city: CARUARU
+  date: 2024-03-24
+  title: PASSEIO DA PAIXÃO
+  uf: PE
+- city: GOVERNADOR MANGABEIRA
+  date: 2024-03-24
+  title: BATE E VOLTA SOLIDÁRIO
+  uf: BA
+- city: BARRA DE MARATAÍZES
+  date: 2024-03-29
+  title: ANIVERSÁRIO CAVEIRAS DO LITORAL MC
+  uf: ES
+- city: CABEDELO
+  date: 2024-04-05
+  title: CABEDELO MOTOFEST
+  uf: PB
+- city: SÃO BENTO
+  date: 2024-04-05
+  title: 10 ANOS  SÃO BENTO MOTOFEST 
+  uf: PB
+- city: CONCEIÇÃO DA APARECIDA
+  date: 2024-04-05
+  title: MOTO & ROCK FEST
+  uf: MG
+- city: MONTES CLAROS
+  date: 2024-04-05
+  title: MOTOMOC
+  uf: MG
+- city: MATA GRANDE
+  date: 2024-04-06
+  title: 2° MATA GRANDE MOTO FEST
+  uf: AL
+- city: SALVADOR
+  date: 2024-04-07
+  title: 1 ANIVERSÁRIO CAÇADORES MG
+  uf: BA
+- city: SALVADOR
+  date: 2024-04-07
+  title: AVINERSÁRIO CAÇADORES MG
+  uf: BA
+- city: POÇO VERDE
+  date: 2024-04-13
+  title: 13 MOTO FEST POÇO VERDE
+  uf: SE
+- city: CÍCERO DANTAS
+  date: 2024-04-19
+  title: BOM CONCELHO MOTO WEEK
+  uf: BA
+- city: ÁGUIA BRANCA
+  date: 2024-04-19
+  title: ÁGUIA BRANCA MOTO FEST
+  uf: ES
+- city: PIRAPORANGA
+  date: 2024-04-19
+  title: MOTOFEST PIRAPORANGA
+  uf: MG
+- city: JUIZ DE FORA 
+  date: 2024-04-21
+  title: 14 ANOS DE BANDEIRA DESBRASADOS
+  uf: MG
+- city: SAQUAREMA
+  date: 2024-04-23
+  title: SAQUA MOTO ROCK
+  uf: RJ
+- city: PAULO AFONSO
+  date: 2024-04-25
+  title: MOTO PAULO AFONSO
+  uf: BA
+- city: PARNAÍBA
+  date: 2024-04-26
+  title: VIII ENC. NACIONAL MOTOCICLISTAS MOTOROCKER
+  uf: PI
+- city: PARAIBA DO SUL
+  date: 2024-04-26
+  title: 25° ENCONTRO NACIONAL DE MOTOCICLISTAS
+  uf: RJ
+- city: IUNA
+  date: 2024-04-26
+  title: IÚNA MOTOFEST
+  uf: ES
+- city: SEABRA
+  date: 2024-04-27
+  title: 8 ANIVERSARIO BLOOD BROTHERS MC
+  uf: BA
+- city: VALENTE
+  date: 2024-05-03
+  title: 2 VALENTE MOTO FESTIVAL
+  uf: BA
+- city: SANTA LUZIA
+  date: 2024-05-03
+  title: SABUGY MOTOFEST
+  uf: PB
+- city: SALGUEIRO
+  date: 2024-05-16
+  title: 15° SALGUEIRO MOTO FEST
+  uf: PE
+- city: BURITIS
+  date: 2024-05-17
+  title: 5° BURITIS MOTOFEST
+  uf: MG
+- city: TABIRA
+  date: 2024-05-24
+  title: TABIRA MOTOFEST
+  uf: PE
+- city: BARREIRAS
+  date: 2024-05-24
+  title: 5° BARREIRAS MOTO NACIONAL
+  uf: BA
+- city: CURRAIS NOVOS
+  date: 2024-05-24
+  title: CACTUS MOTO FEST
+  uf: RN
+- city: CAMPO DOS GOYTACAZAES
+  date: 2024-05-31
+  title: CAMPOS MOTO FEST
+  uf: RJ
+- city: CUSTÓDIA
+  date: 2024-06-01
+  title: CUSTÓDIA MOTOFEST 2024
+  uf: PE
+- city: CONSELHEIRO PENA
+  date: 2024-06-01
+  title: BATE FICA 2024
+  uf: MG
+- city: MIGUEL PEREIRA
+  date: 2024-06-07
+  title: XXVIII ENCONTRO INTER. DE MOTOCICLISTAS
+  uf: RJ
+- city: SERROLÂNDIA
+  date: 2024-06-09
+  title: FEIJOADA DOS MOTOCICLISTAS DE SERROLÂNDIA
+  uf: BA
+- city: CARANGOLA
+  date: 2024-06-14
+  title: 22° ANIVERSÁRIO MC PAPA ROAD
+  uf: MG
+- city: SÃO JOÃO DO PARAISO
+  date: 2024-06-14
+  title: TIAS MOTOROCK
+  uf: MG
+- city: CHAPADINHA
+  date: 2024-06-15
+  title: 5° BATE E FICA PELICANO DO ASFALTO
+  uf: MA
+- city: DUQUE DE CAXIAS
+  date: 2024-06-22
+  title: ENCONTRO NACIONAL DE MOTOCICLISTAS
+  uf: RJ
+- city: PEDRO CANÁRIO
+  date: 2024-06-23
+  title: 7° ANIVERSÁRIO MC METE MARCHA
+  uf: ES
+- city: SERRA GRANDE
+  date: 2024-07-05
+  title: 3° FESTIVAL DE INVERNO DA CIDADE DE SERRA GRANDE
+  uf: PB
+- city: NOVA LIMA
+  date: 2024-07-06
+  title: 25 ANOS AVENTUREIROS DA LIBERDADE MC
+  uf: MG
+- city: ESPÍNOSA
+  date: 2024-07-07
+  title: GERAIZEIROS MOTO ROCK
+  uf: MG
+- city: PETROLINA
+  date: 2024-07-11
+  title: MOTOCHICO 2024
+  uf: PE
+- city: PETROLINA
+  date: 2024-07-11
+  title: MOTO CHICO
+  uf: PE
+- city: SOUSA
+  date: 2024-07-12
+  title: SOUSA MOTO FEST
+  uf: PB
+- city: PEDRA LAVRADA
+  date: 2024-07-12
+  title: PEDRA LAVRADA MOTOFEST
+  uf: PB
+- city: PONTÕES
+  date: 2024-07-13
+  title: MOTO FEST
+  uf: MG
+- city: BRASÍLIA
+  date: 2024-07-18
+  title: CAPITAL MOTO WEEK
+  uf: DF
+- city: COELHO NETO
+  date: 2024-07-19
+  title: 10° EDIÇÃO MOTOFEST - MC OS TARJA PRETA
+  uf: MA
+- city: MACEIÓ
+  date: 2024-07-26
+  title: ALAGOAS MOTO ENCONTRO
+  uf: AL
+- city: VALENTE
+  date: 2024-07-27
+  title: 3° ANIVERSÁRIO MC TEMPO LIVRE
+  uf: BA
+- city: ITAETÊ
+  date: 2024-08-02
+  title: 2° ITAETÊ MOTO FEST
+  uf: BA
+- city: DELMIRO GOUVEIA
+  date: 2024-08-02
+  title: DELMIRO GOUVEIA MOTOFEST
+  uf: AL
+- city: ALEGRE
+  date: 2024-08-02
+  title: LOST RIDERS CAPARAÓ MOTO FEST
+  uf: ES
+- city: EUNÁPOLIS
+  date: 2024-08-09
+  title: 2° EUNÁPOLIS MÔFOROCK
+  uf: BA
+- city: MUTUÍPE
+  date: 2024-08-09
+  title: 2° MOTUÍPE
+  uf: BA
+- city: PREÁ
+  date: 2024-08-16
+  title: 1° PREÁ MOTOFEST
+  uf: CE
+- city: IATI
+  date: 2024-08-16
+  title: 10 IATI MOTOFEST
+  uf: PE
+- city: ALAGOINHAS
+  date: 2024-08-16
+  title: ALAGOINHAS MOTO FEST
+  uf: BA
+- city: PATOS
+  date: 2024-08-16
+  title: PATOS MOTO FEST
+  uf: PB
+- city: POJUCA
+  date: 2024-08-23
+  title: 3° MOTOFEST AVES DE .PINA
+  uf: BA
+- city: MIMOSO DO SUL
+  date: 2024-08-30
+  title: 2° MOTOFEST IRON WOLVES MC
+  uf: ES
+- city: CONCEIÇÃO DA BARRA
+  date: 2024-09-06
+  title: 2° MOTOFEST
+  uf: ES
+- city: SALVADOR
+  date: 2024-09-06
+  title: BAHIA IN MOTO
+  uf: BA
+- city: CONCEIÇÃO DA BARRA
+  date: 2024-09-06
+  title: MOTO FEST
+  uf: ES
+- city: AMARGOSA
+  date: 2024-09-06
+  title: AMARGOSA MOTO FESTIVAL
+  uf: BA
+- city: TRIUNFO
+  date: 2024-09-12
+  title: TRIUNFO MOTOFEST
+  uf: PE
+- city: STO. ANTÔNIO DE JESUS
+  date: 2024-09-13
+  title: 3° SAJ MOTOFEST
+  uf: BA
+- city: PÉ DE SERRA
+  date: 2024-09-13
+  title: 2° MOTO FEST PÉ DE SERRA
+  uf: BA
+- city: SANTANA DO IPANEMA
+  date: 2024-09-13
+  title: VI SANTANA DO IPANEMA MOTOFEST
+  uf: AL
+- city: SANTO ANTÔNIO DE JESUS
+  date: 2024-09-13
+  title: 3° SAJ MOTOFEST
+  uf: BA
+- city: NANUQUE
+  date: 2024-09-14
+  title: 7° ANIVERSÁRIO ANJOS NEGROS MC
+  uf: MG
+- city: INHAMBUPE
+  date: 2024-09-20
+  title: 2° MOTOFEST BALA EST.DEIRO
+  uf: BA
+- city: SÍTIO DO CONDE
+  date: 2024-09-20
+  title: 3° SÍTIO DO CONDE MOTO PRAIA
+  uf: BA
+- city: CRUZ DAS ALMAS
+  date: 2024-09-27
+  title: MOTO CRUZ
+  uf: BA
+- city: TOUROS
+  date: 2024-09-27
+  title: ENCONTRO DE MOTOCICLISTAS
+  uf: RN
+- city: JANDAÍ
+  date: 2024-09-28
+  title: 9° JANDAÍ.
+  uf: BA
+- city: JANDAÍRA
+  date: 2024-09-28
+  title: JANDAÍRA
+  uf: BA
+- city: ALDEIA DOS CAMARÁS
+  date: 2024-09-28
+  title: DEUSES DO OLIMPO
+  uf: PE
+- city: SALVADOR
+  date: 2024-10-05
+  title: 9° ANIVERSÁRIO BRUTAMONTES
+  uf: BA
+- city: RECIFE
+  date: 2024-10-05
+  title: ANIVERSÁRIO DEUSES DO OLIMPO
+  uf: PE
+- city: TIANGUÁ
+  date: 2024-10-10
+  title: MOTO FEST
+  uf: CE
+- city: NAZARÉ
+  date: 2024-10-11
+  title: 2 TRI FESTIVAL DE NAZARÉ
+  uf: BA
+- city: JOÃO PESSOA
+  date: 2024-10-11
+  title: 2 ENCONTRO DE MOTOCASAIS DO NORDESTE
+  uf: PB
+- city: ITAPEMIRIM
+  date: 2024-10-18
+  title: 5° ITAPEMIRIM PRAIA MOTOFEST
+  uf: ES
+- city: GRAVATÁ
+  date: 2024-10-18
+  title: GRAVATÁ MOTOGEST
+  uf: PE
+- city: SALVADOR
+  date: 2024-10-19
+  title: 10° ANIVERSÁRIO FUNDAÇÃO WOLF MC
+  uf: BA
+- city: JEQUIÉ
+  date: 2024-10-25
+  title: JEQUIÉ MOTO CAR
+  uf: BA
+- city: CANAVIEIRAS
+  date: 2024-10-31
+  title: 6° CANES MOTO FEST
+  uf: BA
+- city: ALAGOINHAS
+  date: 2024-11-03
+  title: 9° ANIVERSÁRIO MOTO CLUBE JORRENSE
+  uf: BA
+- city: FEIRA DE SANTANA
+  date: 2024-11-07
+  title: MEGA MOTO FEIRA
+  uf: BA
+- city: INHAPI
+  date: 2024-11-08
+  title: INHAPI MOTO FEST - MC TIGRE DOURADO
+  uf: AL
+- city: MONTEIRO
+  date: 2024-11-08
+  title: EMOCAP - ENC.MOTOCICLISTAS DO CARIRI PARAIBANO
+  uf: PB
+- city: RIO DAS OSTRAS
+  date: 2024-11-09
+  title: 19° ANIVERSÁRIO DO MC FÊNIX BRASIL
+  uf: RJ
+- city: ITUAÇU
+  date: 2024-11-15
+  title: ENCONTRO NACIONAL DE MOTOCICLISTAS
+  uf: BA
+- city: CAMPINA GRANDE
+  date: 2024-11-21
+  title: 19º CAMPINA GRANDE MOTOFEST
+  uf: PB
+- city: AQUIRAZ
+  date: 2024-11-23
+  title: ANIVERSÁRIUO MC GAVIÕES DA ESTRADA
+  uf: CE
+- city: GARANHUNS
+  date: 2024-11-29
+  title: 19 GARANHUNS MOTOFEST
+  uf: PE
+- city: ALAGOINHAS
+  date: 2024-11-30
+  title: ANIVERSÁRIO T-REX
+  uf: BA
+- city: DIVINO
+  date: 2024-12-06
+  title: 3° DIVINO MOTOFEST E 5° ANIVERSÁRIO DOS INÚTEIS MG
+  uf: MG
+- city: NOSSA SRA. DA GLÓRIA
+  date: 2024-12-08
+  title: 2° BATE E VOLTA ROTA DO SERTÃO DO FOX MC
+  uf: SE
+- city: SENHOR DO BONFIM
+  date: 2024-12-12
+  title: BYE BYE
+  uf: BA
+- city: ALAGOINHAS
+  date: 2024-12-21
+  title: ANIVERSÁRIO PRESIDENTE CLEBER FIBRAS MC BAHIA
+  uf: BA
+title: Eventos
