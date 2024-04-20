@@ -1,5 +1,4 @@
-title: Eventos
-dt_atualizacao: 2024-04-16
+dt_atualizacao: 2024-04-20
 eventos:
 - city: SANTOS
   date: 2024-02-17
@@ -177,6 +176,14 @@ eventos:
   date: 2024-05-03
   title: SABUGY MOTOFEST
   uf: PB
+- city: GUAJARÁ-MIRIM
+  date: 2024-05-03
+  title: 1 ENCONTRO FERROVIA MC
+  uf: RO
+- city: ILHA DE SANTANA - CAICÓ
+  date: 2024-05-11
+  title: 6 ITANS MRC FEST
+  uf: RN
 - city: SALGUEIRO
   date: 2024-05-16
   title: 15° SALGUEIRO MOTO FEST
@@ -213,6 +220,10 @@ eventos:
   date: 2024-06-07
   title: XXVIII ENCONTRO INTER. DE MOTOCICLISTAS
   uf: RJ
+- city: BEBERIBE
+  date: 2024-06-07
+  title: BEBERIBE MOTOFEST
+  uf: CE
 - city: SERROLÂNDIA
   date: 2024-06-09
   title: FEIJOADA DOS MOTOCICLISTAS DE SERROLÂNDIA
@@ -229,6 +240,10 @@ eventos:
   date: 2024-06-15
   title: 5° BATE E FICA PELICANO DO ASFALTO
   uf: MA
+- city: CHAPADINHA
+  date: 2024-06-15
+  title: 5 BATE E FICA - PELICANO DO ASFALTO
+  uf: MA
 - city: DUQUE DE CAXIAS
   date: 2024-06-22
   title: ENCONTRO NACIONAL DE MOTOCICLISTAS
@@ -237,10 +252,22 @@ eventos:
   date: 2024-06-23
   title: 7° ANIVERSÁRIO MC METE MARCHA
   uf: ES
+- city: ACARI
+  date: 2024-06-28
+  title: ACARI MOTOFEST
+  uf: RN
+- city: ILHEUS
+  date: 2024-07-04
+  title: ILHEUS MOTO PRAIA
+  uf: BA
 - city: SERRA GRANDE
   date: 2024-07-05
   title: 3° FESTIVAL DE INVERNO DA CIDADE DE SERRA GRANDE
   uf: PB
+- city: CARNAÚBA DOS DANTAS
+  date: 2024-07-05
+  title: CARNAUBA MOTO FEST
+  uf: RN
 - city: NOVA LIMA
   date: 2024-07-06
   title: 25 ANOS AVENTUREIROS DA LIBERDADE MC
