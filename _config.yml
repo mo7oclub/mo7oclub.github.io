@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mo7o Club
+title: Mo7o.Club
 email: contato@mo7o.club
 description: >- # this means to ignore newlines until "baseurl:"
   Página dedicada a concentrar motoclubes pelo Brasil.

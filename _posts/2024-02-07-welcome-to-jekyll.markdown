@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Boas-vindas ao Mo7o Club!"
+title:  "Boas-vindas ao Mo7o.Club!"
 date:   2024-02-07 18:52:20 -0300
 categories: wellcome
 ---

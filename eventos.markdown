@@ -3,7 +3,7 @@ layout: page
 title: Eventos
 permalink: /eventos/
 ---
-
+<!-- https://forms.gle/cWaEdp7MBsWD99qv6 -->
 <div x-data='{
    "dt_atualizacao": {{site.data.eventos.dt_atualizacao | jsonify}},
    "eventos": {{site.data.eventos.eventos | jsonify}},
@@ -38,6 +38,13 @@ permalink: /eventos/
    <p>Atualizado em: <span x-text="(new Date(dt_atualizacao)).toLocaleDateString(lang, options)"></span></p>
    
    <input id="filter-input" class="search search-filter" type="text" x-on:keyup="filter()" placeholder="Pesquisar evento">
+</div>
+<div class="alert">
+   <center>
+      <h3>Não encontrou seu evento?</h3>
+      <p class="subtitle">Então não perde tempo!</p>
+      <a class="btn" target="blank" href="https://forms.gle/cWaEdp7MBsWD99qv6">Cadastrar meu evento 🤘</a>
+   </center>
 </div>
 <table>
    <thead>
