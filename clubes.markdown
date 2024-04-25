@@ -23,7 +23,7 @@ permalink: /clubes/
         <td>{{ item.title }}</td>
         <td>{{ item.city }}</td>
         <td>{{ item.uf }}</td>
-        <td><a href="{{ item.url }}">Página do clube</a></td>
+        <td><a target="blank" href="{{ item.url }}">Página do clube</a></td>
         
       </tr>
    {% endfor %}
