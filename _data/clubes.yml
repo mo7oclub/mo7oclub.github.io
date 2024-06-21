@@ -15,7 +15,17 @@ clubes:
   uf: PE
   url: https://www.facebook.com/kactosdoAsfaltoAguasbelasPE
 
-- title: MC Sobreviventes do Cangaço Brasil  
+- title: MC Sobreviventes do Cangaço Brasil
   city: Caruaru
   uf: PE
   url: https://www.instagram.com/mcsc_brasil
+
+- title: PHD Moto Clube Teófilo Otoni MG
+  city: Teófilo Otoni
+  uf: MG
+  url: https://www.instagram.com/phd_motoclube_teofilo_otoni_mg
+
+- title: Estradeiros Libertos MC 
+  city: Goiânia
+  uf: GO
+  url: mcestradeiroslibertos@gmail.com 
