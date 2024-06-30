@@ -23,22 +23,20 @@ permalink: /eventos/
       let events = {{site.data.eventos.eventos | jsonify}};
       
       this.eventos = events.filter((item) => {
-         let list = [];
-         for(prop in item) {
-            item_value = item[prop].toLowerCase()
-            list.push(item_value.includes(value))
+         const props = ["date", "city", "title", "uf"];
+         let contains_list = [];
+         let item_list = [];
+         for(index in props) {
+            prop = props[index];
+           item_value = item[prop].toLowerCase();
+               contains_list.push(item_value.includes(value));
+            
          }
-         return list.some(Boolean);
+         return contains_list.some(Boolean);
       });
       
    }
 }'>
-
-<div>
-   <p>Atualizado em: <span x-text="(new Date(dt_atualizacao)).toLocaleDateString(lang, options)"></span></p>
-   
-   <input id="filter-input" class="search search-filter" type="text" x-on:keyup="filter()" placeholder="Pesquisar evento">
-</div>
 <div class="alert">
    <center>
       <h3>Não encontrou seu evento?</h3>
@@ -46,6 +44,17 @@ permalink: /eventos/
       <a class="btn" target="blank" href="https://forms.gle/cWaEdp7MBsWD99qv6">Cadastrar meu evento 🤘</a>
    </center>
 </div>
+<div class="stats">
+   <div>
+      <p>Atualizado em: <span x-text="(new Date(dt_atualizacao)).toLocaleDateString(lang, options)"></span></p>
+      <p>Eventos cadastrados: <span x-text="(eventos.length)"></span></p>
+   </div>
+   <div>
+      <input id="filter-input" class="search search-filter" type="text" x-on:keyup="filter()" placeholder="Pesquisar evento">
+   </div>
+</div>
+
+
 <table>
    <thead>
    <th x-on:click="sort('date')">Data</th>

@@ -1,3 +1,4 @@
+dt_atualizacao: 2024-06-30
 title: Moto Clubes
 clubes:
 - title: Resurgidos
@@ -28,4 +29,14 @@ clubes:
 - title: Estradeiros Libertos MC 
   city: Goiânia
   uf: GO
-  url: mcestradeiroslibertos@gmail.com 
+  url: mcestradeiroslibertos@gmail.com
+
+- title: Motoqueiro andante 
+  city: União dos Palmares
+  uf: AL
+  url: # 
+
+- title: Arqueiros de Aço Moto Grupo
+  city: Maceió
+  uf: AL
+  url: https://arqueirosdeaco.com.br/

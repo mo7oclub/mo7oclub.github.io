@@ -1,0 +1,21 @@
+services:
+  jekyll:
+    build:
+      context: .
+    image: local/jekyll:latest
+    volumes:
+      - ".:/usr/src/app"
+    command:
+      [
+        "bundle",
+        "exec",
+        "jekyll",
+        "serve",
+        "--force_polling",
+        "-H",
+        "0.0.0.0",
+        "-P",
+        "4000"
+      ]
+    ports:
+      - "80:4000"

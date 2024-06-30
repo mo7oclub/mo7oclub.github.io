@@ -1,523 +1,1347 @@
-dt_atualizacao: 2024-04-20
+dt_atualizacao: 2024-06-30
 eventos:
-- city: SANTOS
-  date: 2024-02-17
-  title: 26° ANIVERSÁRIO FALCÕES RAÇA LIBERTA
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64998457174dc_2023-06-26_IdUser_1.jpg
+  city: Carnaúba dos Dantas
+  contact: Marfran Medeiros
+  date: 2023-05-30
+  days: 30/06 a 02/07
+  location: Praça Caetano Dantas
+  phone: (84)98739639
+  site: https://www.facebook.com/marfran.medeiros
+  title: Carnaúba Motofest
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=17
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499877313788_2023-06-26_IdUser_1.jpg
+  city: Santo Antônio
+  contact: Evânio
+  date: 2023-06-30
+  days: 30/06, 01/07 e 02/07
+  location: Av. Lindolfo Gomes Vidal (Centro)
+  phone: (84) 98520686
+  site: https://federacaorn.wordpress.com/
+  title: Santo Antônio Moto Fest
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=18
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499887421ef7_2023-06-26_IdUser_1.jpg
+  city: Petrolina
+  contact: Ivanildo
+  date: 2023-07-06
+  days: 06, 07, 08 e 09
+  location: Parque Josepha Coelho
+  phone: (87) 99916-5140
+  site: https://www.instagram.com/motochicobrasil/
+  title: Moto Chico 2023
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=19
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64998dbc8221d_2023-06-26_IdUser_1.jpg
+  city: Miraí
+  contact: André Dutra
+  date: 2023-07-07
+  days: 07, 08 e 09
+  location: Praça Dr. Miguel Pereira (Praça Central)
+  phone: (32) 9 8847-0234
+  site: https://www.facebook.com/fissuradosmirai
+  title: Miraí Moto Fest
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=20
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64998eb78fd99_2023-06-26_IdUser_1.jpg
+  city: Pedra Lavrada
+  contact: Vital
+  date: 2023-07-13
+  days: 13, 14, 15 e 16
+  location: Praça Eugênio Vasconcelos
+  phone: (83) 9 8819-9819
+  site: https://www.instagram.com/vital_esuabanda/
+  title: Pedra Lavrada Moto Fest
+  uf: PB
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=21
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/649990ca00d5d_2023-06-26_IdUser_1.jpg
+  city: Apodi
+  contact: Gato Mestre
+  date: 2023-07-14
+  days: 14, 15 e 16
+  location: Centro da cidade
+  phone: (84) 9 8854-1091
+  site: https://facebook.com/encontroestadualdemotociclistasdorn
+  title: Encontro Estadual de Motociclistas RN
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=22
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/649995b649011_2023-06-26_IdUser_1.jpg
+  city: Sousa
+  contact: Neguinho e Emerson Lunguinho
+  date: 2023-07-14
+  days: 14, 15 e 16
+  location: Praça da Matriz
+  phone: (83) 9 8133-603
+  site: https://www.instagram.com/sousamotofestoficial/
+  title: Sousa MotoFest
+  uf: PB
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=23
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64999c5594aba_2023-06-26_IdUser_1.jpg
+  city: Monte das Gameleiras
+  contact: Lindolfo
+  date: 2023-07-22
+  days: 22
+  location: Rua Justiniano da Costa
+  phone: (84) 9 8883-5057
+  site: https://www.instagram.com/p/CtvRa1IMtB1/
+  title: Encontro de Motociclistas Monte RN
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=24
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499a3adac63d_2023-06-26_IdUser_1.jpg
+  city: João Câmara
+  contact: Antônio
+  date: 2023-07-28
+  days: 28, 29 e 30
+  location: Praça da Igreja Matriz N. Sra. Mãe dos Homens
+  phone: 84 98181-9633
+  site: https://www.instagram.com/joaocamaramotofest/
+  title: João Câmara Moto Fest
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=25
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499a5edc80cb_2023-06-26_IdUser_1.jpg
+  city: São José do Egito
+  contact: Gabriel
+  date: 2023-07-28
+  days: 28, 29 e 30
+  location: Pátio de eventos Miguel Arraz de Alencar
+  phone: (87) 9 8151-2542
+  site: https://www.facebook.com/profile.php?id=100047335816084&locale=zh_HK
+  title: Cavaleiros do Fogo Motofest
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=26
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499a8af9f892_2023-06-26_IdUser_1.jpg
+  city: Vitória de Santo Antão
+  contact: Cicero Gabriel do Nascimento
+  date: 2023-07-29
+  days: 29 e 30
+  location: Praca 03 de agosto
+  phone: (81) 9 8366-8232
+  site: https://www.prefeituradavitoria.pe.gov.br/portal/
+  title: Bate e Fica - Terra das Tabocas
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=27
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499c06a0f6eb_2023-06-26_IdUser_1.jpg
+  city: Aracaju
+  contact: Flavio Goes
+  date: 2023-07-29
+  days: 29
+  location: AEASE - Assoc. dos.Eng. Agrônomos de SE
+  phone: (79) 9 9123-1111
+  site: http://www.escuderiahayabusa.com/
+  title: Day Of Escuderia Sergipe
+  uf: SE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=28
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/649a42f704cc3_2023-06-26_1.jpeg
+  city: Bezerros
+  contact: Máximo Neto
+  date: 2023-08-03
+  days: 03, 04, 05 e 06
+  location: Centro
+  phone: (81) 9 9715-6000
+  site: https://bezerros.pe.gov.br/?s=moto+fest
+  title: Bezerros Moto Fest
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=16
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499ce341c0b6_2023-06-26_IdUser_1.jpg
+  city: Delmiro Gouveia
+  contact: Aluisio Rocha
+  date: 2023-08-04
+  days: 04, 05 e 06
+  location: Praça Nossa Senhora Aparecida
+  phone: (82) 9 8863-3584
+  site: https://www.instagram.com/cavaleirosdapedra/
+  title: Edição Moto Fest Delmiro Gouveia
+  uf: AL
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=31
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499cb7db16e8_2023-06-26_IdUser_1.jpg
+  city: Arcoverde
+  contact: Lelé Produções
+  date: 2023-08-04
+  days: 04,  05 e 06
+  location: Praça Winston Siqueira
+  phone: (87) 9 9653-8452
+  site: https://www.instagram.com/lele_producoes/
+  title: Portal do Sertão Moto Fest
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=30
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64cd331f5b2a7_2023-08-04_IdUser_1.jpg
+  city: Passa e Fica
+  contact: Bosco Moura
+  date: 2023-08-04
+  days: 04, 05 e 06
+  location: Praça Dr. Luiz Amâncio Ramalho
+  phone: (84)98745187
+  site: boscomoura@uol.com.br
+  title: Passa e Fica Moto Fest
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=65
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64cd347e37955_2023-08-04_1.jpg
+  city: Salgueiro
+  contact: Diogo Carvalho
+  date: 2023-08-05
+  days: 05
+  location: Villa Espetos
+  phone: (87) 9 9600-1257
+  site: https://www.instagram.com/ignorados_mc
+  title: Aniversário dos Ignorados
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=29
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499cfdb07240_2023-06-26_IdUser_1.jpg
+  city: Beberibe
+  contact: Batatinha
+  date: 2023-08-05
+  days: 05
+  location: R. Raimunda Paixão, s/n - Parajuru
+  phone: (83) 9 9813-3603
+  site: https://www.instagram.com/beberibe_motofest/
+  title: Lual Pararuju
+  uf: CE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=32
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499d1dc9d759_2023-06-26_IdUser_1.jpg
+  city: Recife
+  contact: Karina Dir. Social
+  date: 2023-08-06
+  days: 06
+  location: Sítio Aconchego
+  phone: (81) 9 9725-0212
+  site: https://www.instagram.com/estradeirasarretadasmc/
+  title: Aniversário Estradeiras Arretadas
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=33
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499d32669fed_2023-06-26_1.jpg
+  city: Iati
+  contact: Flávio Presidente
+  date: 2023-08-11
+  days: 11 e 12
+  location: Praça Odete Tenório Alves
+  phone: (87)9 8166-5921
+  site: https://www.instagram.com/iati_motofest/?utm_
+  title: Iati Moto Fest
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=34
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64d04264eb7b3_2023-08-06_1.jpg
+  city: Parnamirim
+  contact: Sueco (Keith)
+  date: 2023-08-18
+  days: 18, 19 e 20
+  location: Loteamento Pq Verde Nova Esperança
+  phone: (84) 9 8895-8072
+  site: https://www.instagram.com/suecodelivery
+  title: Cidade do Sol Moto Fest
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=35
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499d6e662e50_2023-06-26_IdUser_1.jpg
+  city: Ouricuri
+  contact: Mororó
+  date: 2023-08-18
+  days: 18, 19 e 20
+  location: Praça Frei Damião
+  phone: (87) 9 9961-5894
+  site: https://www.instagram.com/jacaremc2007/
+  title: Ouricuri Moto Fest
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=36
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499d7dd8384a_2023-06-26_IdUser_1.jpg
+  city: Patos
+  contact: Misael
+  date: 2023-08-18
+  days: 18, 19 e 20
+  location: Terreiro do Forró
+  phone: (83) 9 9656-0425
+  site: https://amopatos.blogspot.com
+  title: Patos Moto Fest
+  uf: PB
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=37
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64df964c34084_2023-08-18_IdUser_1.jpg
+  city: Pinheiros
+  contact: Sissa Santiago
+  date: 2023-08-18
+  days: 18 e 19
+  location: Praça do Posto, Pinheiros
+  phone: (27) 9 9819-6995
+  site: 
+  title: PINHEIROS MOTOROCK - PINHEIROS - ES
+  uf: ES
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=78
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64df941b2e36c_2023-08-18_IdUser_1.jpg
+  city: Pirapetinga
+  contact: Prefeitura municipal de pirapetinga
+  date: 2023-08-18
+  days: 18 e 19
+  location: Praça Santana - Centro
+  phone: (32) 9 9923-6989
+  site: https://www.facebook.com/profile.php?id=100068331469586&locale=ms_MY
+  title: PIRAPETINGA MOTOFEST - 22 ANOS DO NÓIS NA PISTA MC
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=77
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64df91032d1a3_2023-08-18_1.jpg
+  city: Ouro Fino
+  contact: Prefeitura de Ouro Fino
+  date: 2023-08-18
+  days: 18, 19 e 20
+  location: Arena de Ouro - Rua Angelina Rezende de Almeida, 140
+  phone: (35) 998 567 651
+  site: 
+  title: ANIVERSÁRIO DO MOTOGRUPO UNIÃO - OURO FINO - MG
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=76
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64df8f11c1010_2023-08-18_IdUser_1.jpg
+  city: Santo Antônio do Amparo
+  contact: Bruno Paiva
+  date: 2023-08-18
+  days: 18, 19 e 20
+  location: SÃO SEBASTIÃO DA ESTRELA
+  phone: (35) 9 9860-6841
+  site: https://www.instagram.com/oncasselvagensmc/?ref=9472
+  title: ENCONTRO NACIONAL DE MOTOCICLISTA DE SÃO SEBASTIÃO DA ESTRELA
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=75
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64df99cadd208_2023-08-18_IdUser_1.jpg
+  city: Uberaba
+  contact: Pr André César – Esquadrão Quadrangular
+  date: 2023-08-19
+  days: 19
+  location: Usuário não inseriu local
+  phone: (31) 9 9617-1373
+  site: 
+  title: CONGRESSO ESTADUAL DO ESQUADRÃO QUADRANGULAR EM UBERABA
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=80
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64df97d0a4223_2023-08-18_IdUser_1.jpg
+  city: Belo Horizonte
+  contact: Dragões de Minas Motoclube
+  date: 2023-08-19
+  days: 19
+  location: Praça Dr. Carlos Marques, B. Calafate, BH.
+  phone: (31) 3046-7289
+  site: https://qrcartaoweb.com.br/user/dragoesdeminasmotoclube
+  title: DRAGON MOTO FEST - 2° ANIVERSÁRIO DRAGÕES DE MINAS - BH
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=79
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64df9ada9c8e5_2023-08-18_IdUser_1.jpg
+  city: Formiga
+  contact: Associação de Motociclistas Motorock de Formiga – MG
+  date: 2023-08-19
+  days: 19
+  location: Cervejaria FURST,   na  av. Vereador José Higino Filho,  740A, Formiga,
+    MG.
+  phone: (37) 9 9953-7535
+  site: https://www.facebook.com/MotorockFormigaMG?mibextid=ZbWKwL
+  title: 10 ANOS DO MOTOROCK CLUBE DE FORMIGA - MG
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=81
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64df9e4144c2d_2023-08-18_IdUser_1.jpg
+  city: Belo Horizonte
+  contact: MC Trindade Motorizada
+  date: 2023-08-20
+  days: 20
+  location: Rua Dr. Ribeiro Pena, 120, b. Das Industrias, BH
+  phone: (31) 9 9141-6923
+  site: https://www.instagram.com/trindademotorizada/
+  title: ANIVERSÁRIO TRINDADE MOTORIZADA, BH
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=84
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64df9c40b4ec2_2023-08-18_IdUser_1.jpg
+  city: Sabará
+  contact: Grazi & Leia
+  date: 2023-08-20
+  days: 20
+  location: Av. Cardoso de Menezes , 385, B. Alvorada.
+  phone: (31) 9 9480-1393
+  site: 
+  title: ENCONTRO DE MOTOCICLISTAS SEGUNDA EDIÇÃO
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=82
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64df9d3c6711b_2023-08-18_IdUser_1.jpg
+  city: Juiz de Fora
+  contact: Fabio de Salles Salgado
+  date: 2023-08-20
+  days: 2ª MOTOCIATA DE JUIZ DE FORA - CAMPANHA CONTRA CEROL
+  location: Parque Halfeld, Juiz de Fora.
+  phone: (32) 9 8844-4588
+  site: 
+  title: MOTOCIATA DE JUIZ DE FORA - CAMPANHA CONTRA CEROL
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=83
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64dfa1f941055_2023-08-18_IdUser_1.jpg
+  city: Armação dos Búzios
+  contact: Búzios Moto Clube
+  date: 2023-08-24
+  days: 24, 25, 26 e 27
+  location: Campo da Seb - Centro
+  phone: (22) 9 8165-6660
+  site: https://www.facebook.com/buziosmotoclube/
+  title: BUZIOS BIKER FEST - ENCONTRO INTERNACIONAL DE MOTOCICLISTAS -  ARMAÇÃO DOS
+    BÚZIOS
+  uf: RJ
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=86
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64dfa0572bb0b_2023-08-18_IdUser_1.jpg
+  city: Cordeiro
+  contact: Vários Motoclubes (G8)
+  date: 2023-08-24
+  days: 24, 25 e 26
+  location: Parque de Exposições Raul Veiga - Cordeiro
+  phone: (22) 9 9603-9604
+  site: https://www.instagram.com/cordeiromotofest
+  title: CORDEIRO MOTOFEST
+  uf: RJ
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=85
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64dfa31f66df6_2023-08-18_IdUser_1.jpg
+  city: Pará de Minas
+  contact: Faria do MC Hot Cycles
+  date: 2023-08-25
+  days: 25, 26 e 27
+  location: Parque de exposições
+  phone: (37) 9 9992-9292
+  site: 
+  title: PARÁ DE MINAS MOTO ROCK
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=87
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64dfa6716fdd8_2023-08-18_IdUser_1.jpg
+  city: Ipanema
+  contact: MC Guardiões de Ipanema
+  date: 2023-08-25
+  days: 25, 26 e 27
+  location: Praça Coronel Calhau
+  phone: (33) 9 9991-2734
+  site: http://www.guardioesdeipanema.com
+  title: ENCONTRO NACIONAL DE MOTOCICLISTAS - IPANEMA MG
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=88
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64dfa79b61182_2023-08-18_IdUser_1.jpeg
+  city: Prados
+  contact: Sérgio
+  date: 2023-08-25
+  days: 25 e 26
+  location: Praça Dr. Viviano Caldas (praça Central)
+  phone: (32) 9 9948-4667
+  site: 
+  title: ENCONTRO NACIONAL DE MOTOCICLISTA DE PRADOS
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=89
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64dfa81f8fcfa_2023-08-18_IdUser_1.jpg
+  city: Betim
+  contact: MCs & MGs e Prefeitura  de Betim
+  date: 2023-08-31
+  days: 31
+  location: Estacionamento do Ginásio Poliesportivo Divino Braga, no Centro de Betim
+  phone: (31) 9 7120-1935
+  site: 
+  title: BETIM MOTOPOINT
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=90
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64cd355f75e32_2023-08-04_IdUser_1.jpg
+  city: Surubim
+  contact: Eraldo
+  date: 2023-09-01
+  days: 01, 02 e 03
+  location: Largo da João Batista (Centro)
+  phone: (81) 9 9805-3030
+  site: eraldopio@yahoo.com.br
+  title: Surubim Motofest 20 Anos
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=66
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64e363777ff84_2023-08-21_IdUser_1.jpeg
+  city: Penedo
+  contact: Lendários MC do Velho Chico
+  date: 2023-09-02
+  days: 02
+  location: Av. Floriano Peixoto
+  phone: (82) 99652-4334
+  site: https://www.instagram.com/mclendariosdovelhochico/
+  title: ENCONTRO DE COLETES
+  uf: AL
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=91
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64e5fede5e950_2023-08-23_IdUser_1.jpg
+  city: Lajedo
+  contact: Amaral
+  date: 2023-09-02
+  days: 02 e 03
+  location: Praça de eventos
+  phone: (87) 9 9907-0337
+  site: 
+  title: Segundo Lajedo Rock Festival
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=94
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64cd370288409_2023-08-04_IdUser_1.jpg
+  city: Arcoverde
+  contact: Nogueira
+  date: 2023-09-02
+  days: 02
+  location: Sede do moto clube em Arcoverde- PE
+  phone: (87) 9 9618-3245
+  site: lcnogueira.construcao@gmail.com
+  title: Encontro dos Amigos Cangamc
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=67
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64f294a590d6f_2023-09-01_IdUser_31.jpg
+  city: Maceió
+  contact: Missionários do Rei
+  date: 2023-09-05
+  days: 5/9/2023
+  location: Igreja batista do farol
+  phone: Túlio
+  site: 82994333620
+  title: Moto culto de Oração e Bençãos aos Viajantes
+  uf: AL
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=98
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499da3f8811c_2023-06-26_IdUser_1.jpg
+  city: Jaboatão dos Guararapes
+  contact: Ivan Lima Filho
+  date: 2023-09-07
+  days: 07, 08, 09 e 10
+  location: Parque da Cidade - BR 101
+  phone: (81) 9 9138-9347
+  site: https://jaboatao.pe.gov.br/
+  title: Jaboatão Moto Festival
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=38
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499dcfd42f5a_2023-06-26_IdUser_1.jpg
+  city: Parelhas
+  contact: Ailton ( Cazuza )
+  date: 2023-09-08
+  days: 08, 09 e 10
+  location: Praça Arnaldo Bezerra, Centro
+  phone: 84 9 8113-9340
+  site: https://www.instagram.com/cachorrosloucosmc/
+  title: Parelhas Moto Fest
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=39
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499ddc521911_2023-06-26_IdUser_1.jpg
+  city: Jundiaí
+  contact: Villar
+  date: 2023-09-09
+  days: 09
+  location: Sede Administrativa J Toledo Suzuki Motos do Brasil
+  phone: (82) 9 9981-8179
+  site: https://www.instagram.com/escuderiahayabusa/
+  title: Encontro de Hayabusa
   uf: SP
-- city: AFOGADOS DA INGAZEIRA
-  date: 2024-02-24
-  title: 2º ANIVERSÁRIO DO INDEPENDENTES DO PAJEÚ
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=40
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499ded0e9289_2023-06-26_IdUser_1.jpg
+  city: Triunfo
+  contact: Cristovão
+  date: 2023-09-14
+  days: 14, 15, 16 e 17
+  location: Pátio de Eventos Maestro Madureira
+  phone: (87) 9 9991-4963
+  site: https://www.instagram.com/caretasmotoclub/
+  title: Triunfo Moto Fest
   uf: PE
-- city: FEIRA DE SANTANA
-  date: 2024-02-24
-  title: 5° ANIVERSÁRIO FALCÕES RAÇA LIBERTA
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=41
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499e1f207189_2023-06-26_IdUser_1.jpg
+  city: Santana do Ipanema
+  contact: Cleudson Nobre
+  date: 2023-09-15
+  days: 15, 16 e 17
+  location: Largo Cônego José Bulhões
+  phone: (82) 9 9931-8087
+  site: http://www.santanadoipanema.al.gov.br/
+  title: V Moto Fest
+  uf: AL
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=42
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64d573a17cfb4_2023-08-10_1.jpeg
+  city: Toritama
+  contact: Manasses (Presidente)
+  date: 2023-09-22
+  days: 22, 23 e 24
+  location: Em Breve
+  phone: (81) 9 9646-1898
+  site: https://www.facebook.com/darkangelmotoclube
+  title: Toritama MotoFest
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=44
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499e65c7ac45_2023-06-26_IdUser_1.jpg
+  city: Arantina
+  contact: Edney
+  date: 2023-09-22
+  days: 22 e 23
+  location: Praça João Caetano
+  phone: (21) 9 9849-1282
+  site: https://www.facebook.com/discriminados.mc/?locale=pt_BR
+  title: Aniversário Discriminados Moto Clube
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=45
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64ff07184688d_2023-09-11_IdUser_1.jpg
+  city: João Pessoa
+  contact: Pastora Diana
+  date: 2023-09-24
+  days: 24
+  location: Largo de Tambaú
+  phone: (87) 9 9960-0125
+  site: elias.unipampa@gmail.com
+  title: Campanha Setembro Amarelo
+  uf: PB
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=105
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499e7b7b3ac3_2023-06-26_IdUser_1.jpg
+  city: Caruaru
+  contact: Wedson Ferreira
+  date: 2023-09-28
+  days: 28/09, 29/09, 30/09 e 01/10
+  location: Parque de Eventos Luiz Lua Gonzaga
+  phone: (81) 9 9188-7888
+  site: https://caruaru.pe.gov.br/
+  title: Caruaru Motofest
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=47
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64f7cd9cdad2b_2023-09-05_IdUser_1.jpg
+  city: Cajazeiras
+  contact: Diogo Carvalho
+  date: 2023-09-29
+  days: 29, 30 e 01/10
+  location: Praça do Xamegão
+  phone: (87) 9 9960-0125
+  site: diogo_salgueirope@hotmail.com
+  title: Ignorados Cajazeiras Moto Fest
+  uf: PB
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=103
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/650c7fff77dc4_2023-09-21_IdUser_1.jpg
+  city: Campo Redondo
+  contact: Genilson Pinheiro
+  date: 2023-10-03
+  days: 03, 04 e 05
+  location: Centro da cidade, Praça de Eventos
+  phone: (84) 9 8881-1153
+  site: genilsonmotoclube37@gmail.com
+  title: Moto Fest Campo Redondo O Retorno
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=108
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64f91edb839a4_2023-09-06_IdUser_32.jpeg
+  city: Petrópolis
+  contact: MARCO ANTONIO FERNANDES PEREIRA
+  date: 2023-10-06
+  days: 06 A 08 DE OUTUBRO
+  location: PARQUE DE ITAIPAVA
+  phone: DEGUSTE
+  site: 24 988079820
+  title: PETROPOLIS MOTO FEST
+  uf: RJ
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=104
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499ec7a613ba_2023-06-26_IdUser_1.jpg
+  city: Ibimirim
+  contact: João Paulo (Diretor de Eventos)
+  date: 2023-10-06
+  days: 06, 07 e 08
+  location: Av Castro Alves - centro
+  phone: (87) 9 9630-7667
+  site: https://www.instagram.com/casacadecouromc/
+  title: IBIMOTOFEST
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=50
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499ea357d281_2023-06-26_IdUser_1.jpg
+  city: Olindina
+  contact: Zé de Zaty
+  date: 2023-10-06
+  days: 06, 07, 08
+  location: Avenida Otávio Mangabeira
+  phone: (75) 9 9946-3096
+  site: https://www.instagram.com/instaamoba/
+  title: Moto Fest de Olindina
   uf: BA
-- city: GOIÂNIA
-  date: 2024-02-24
-  title: IX ANIVERSÁRIO NACIONAES
-  uf: GO
-- city: SAIRÉ
-  date: 2024-02-25
-  title: 8° ANIVERSÁRIO - CAVEIRAS SEM LIMITES
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=49
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64cd384d8a2f8_2023-08-04_IdUser_1.jpg
+  city: São Bento
+  contact: Bigode
+  date: 2023-10-06
+  days: 06, 07 e 08
+  location: Não Informado
+  phone: (83) 9 9692-8474
+  site: bigodedesign@hotmail.com
+  title: São Bento Motorock
+  uf: PB
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=68
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64d5757c14fc3_2023-08-10_IdUser_1.jpg
+  city: Cabo de Santo Agostinho
+  contact: Guilherme (Bebê)
+  date: 2023-10-07
+  days: 07
+  location: R. Aldino Francisco da Silva nº38 Cohab
+  phone: (81) 9 9502-0862
+  site: https://www.facebook.com/garagem.gambiara
+  title: Aniversário MC Garagem Gambiarra
   uf: PE
-- city: BELO JARDIM
-  date: 2024-02-28
-  title: 21 ANOS DE GAVIÕES DO BITURY
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=74
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6514592238110_2023-09-27_IdUser_1.jpg
+  city: João Pessoa
+  contact: Bruno Magalhães
+  date: 2023-10-07
+  days: 07 de Outubro
+  location: Caravela Cultural - Centro Histórico
+  phone: (83) 9 9969-9435
+  site: argosmc1.17@gmail.com
+  title: Aniversário do Argos MC
+  uf: PB
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=112
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64e5fde272fc5_2023-08-23_IdUser_1.jpg
+  city: União dos Palmares
+  contact: Zulu Fernando
+  date: 2023-10-13
+  days: 13, 14 e 15
+  location: Centro da cidade
+  phone: (82) 9 9912-5871
+  site: https://www.instagram.com/bateeficadosquilombos/
+  title: Bate e Fica dos Quilombos
+  uf: AL
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=93
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499edaf8480f_2023-06-26_IdUser_1.jpg
+  city: Araruna
+  contact: Jocimar Dias
+  date: 2023-10-13
+  days: 13, 14 e 15
+  location: Praça Central
+  phone: (83) 9 9991-0978
+  site: https://ararunamotofest.blogspot.com/
+  title: Araruna Moto Fest
+  uf: PB
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=51
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64f6189659529_2023-09-04_IdUser_1.jpg
+  city: Taquaritinga do Norte
+  contact: Luis Carlos Urubu
+  date: 2023-10-13
+  days: 13 e 14
+  location: Pão de Açúcar (Distrito)
+  phone: (81) 9 9502-7014
+  site: drluanferreira.endodontia@gmail.com
+  title: Bate e Fica de Aniversário Taquara Mc
   uf: PE
-- city: TAQUARATINGA DO NORTE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=99
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499e31ee7cd7_2023-06-26_IdUser_1.jpg
+  city: Recife
+  contact: Diego ou Yan
+  date: 2023-10-14
+  days: 14
+  location: Debron cervejaria
+  phone: (81) 9 9391-5600
+  site: https://www.facebook.com/imbativeismc/?locale=pt_BR
+  title: 11 Anos Imbativeis M.C
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=43
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/650c7ed1d6854_2023-09-21_IdUser_1.jpg
+  city: Recife
+  contact: Camilla
+  date: 2023-10-15
+  days: 15 de Outubro
+  location: MOB Motos Afogados
+  phone: (81) 9 9904-7459
+  site: dhayva@gmail.com
+  title: Passeio Motociclistico Outubro Rosa
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=107
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499f25a65732_2023-06-26_IdUser_1.jpg
+  city: Itabaiana
+  contact: Carlos
+  date: 2023-10-20
+  days: 20, 21 e 22
+  location: Praça Epitácio Pessoa
+  phone: (83) 9 9351-8681
+  site: https://www.instagram.com/dragoesnegrosmc/
+  title: Itabaiana Moto Fest
+  uf: PB
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=54
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64ef51e383ca7_2023-08-30_1.jpg
+  city: Gravatá
+  contact: Ilo Tenório
+  date: 2023-10-20
+  days: 20, 21 e 22
+  location: Pátio de Eventos Chucre Mussa Zarzar
+  phone: (81) 9 9725-8686
+  site: https://www.instagram.com/gravata_motofest/
+  title: Gravatá MotoFest
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=53
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64f61ac0925c6_2023-09-04_IdUser_1.jpg
+  city: Caicó
+  contact: Apolinario Pai
+  date: 2023-10-20
+  days: 20, 21 e 22
+  location: Complexo Ilha de SantAna
+  phone: (84) 9 9981-3030
+  site: cristaosdoasfaltorn@gmail.com
+  title: Feijoada do Pai
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=101
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64f6198d05dba_2023-09-04_IdUser_1.jpg
+  city: Ipueiras
+  contact: Max Medeiros
+  date: 2023-10-21
+  days: 21 e 22
+  location: Calçadão
+  phone: (88) 9 9677-2866
+  site: wysthertony@gmail.com
+  title: Encontro de Motociclistas em Ipueiras
+  uf: CE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=100
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64e5fb20c6245_2023-08-23_IdUser_1.jpg
+  city: Ceará
+  contact: Jefferson Avelino
+  date: 2023-10-22
+  days: 22
+  location: Cynara Pub - Rua Aurelino M. de Queiroz 872, Ceará-Mirim/RN
+  phone: (84) 9 9916-2623
+  site: https://www.instagram.com/cobras_fumantes_motoclube/
+  title: Aniversário dos Cobras Fumantes Motoclube
+  uf: Mirim
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=92
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/65141ee3d2b2e_2023-09-27_IdUser_1.jpg
+  city: Tibau do Sul
+  contact: Erivaldo e Alexandre
+  date: 2023-10-26
+  days: 26, 27, 28 e 29
+  location: Av Baia dos golfinhos  - Pipa Open Air
+  phone: (84) 9 9950-6164
+  site: erivaldo@superacaoeventos.com.br
+  title: Pipa Moto Fest
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=111
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499f367bd66a_2023-06-26_IdUser_1.jpg
+  city: Santa Cruz do Capibaribe
+  contact: David Custom
+  date: 2023-10-27
+  days: 27, 28 e 29
+  location: Av. 29 de dezembro - Centro
+  phone: (81) 9 9407-7631
+  site: https://instagram.com/capibaribe_motofest
+  title: VI Capibaribe Motofest
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=55
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/652eb74c73b82_2023-10-17_1.jpg
+  city: Jeremoabo
+  contact: André Santos
+  date: 2023-10-27
+  days: 27 e 28
+  location: Praça do Forró
+  phone: (75) 9 9970-7187
+  site: mcrota110@outlook.com
+  title: Jere-Moto-Fest 2023
+  uf: BA
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=48
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64ef5136bdc51_2023-08-30_IdUser_1.jpg
+  city: Mauriti
+  contact: Emanoel Martins
+  date: 2023-10-28
+  days: 28 e 29
+  location: Extremix Casa de Shows
+  phone: (88) 9 9678-1815
+  site: 
+  title: Motofest Mauriti-CE
+  uf: CE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=95
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499f4fa96952_2023-06-26_IdUser_1.jpg
+  city: Monteiro
+  contact: João Edson
+  date: 2023-11-03
+  days: 03, 04, 05 e 06
+  location: Praça João Pessoa
+  phone: (83) 9 9953-3514
+  site: https://www.instagram.com/mcpintopequenodoasfalto/
+  title: EMOCAP
+  uf: PB
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=56
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/652eb6f09a215_2023-10-17_IdUser_1.jpg
+  city: Serrinha
+  contact: Vanessa
+  date: 2023-11-04
+  days: 04
+  location: Sítio da Tia Rege
+  phone: (75) 9 9845-2872
+  site: vanessinhadecassia@hotmail.com
+  title: It’s My Birthday Vanessa Morena
+  uf: BA
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=116
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499f5895f1ea_2023-06-26_IdUser_1.jpg
+  city: Aracaju
+  contact: Renan Tavares e Augusto Silva
+  date: 2023-11-09
+  days: 09, 10 e 11
+  location: Praça de Eventos - Orla de Atalaia
+  phone: (79) 9 9996-3764
+  site: autopecasmacedo.com.br
+  title: Aracaju Moto Fest
+  uf: SE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=57
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64cd3bef3aceb_2023-08-04_IdUser_1.jpg
+  city: Cerro Corá
+  contact: Arimaci
+  date: 2023-11-10
+  days: 10, 11 e 12
+  location: Praça Tomáz Pereira
+  phone: (84) 9 9618-5581
+  site: https://www.facebook.com/cerrocoramotofest
+  title: Cerro Corá Moto Fest
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=71
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499f907b65ca_2023-06-26_IdUser_1.jpg
+  city: Inhapi
+  contact: Roberto
+  date: 2023-11-10
+  days: 10 e 11
+  location: Centro
+  phone: (82) 9 8217-9703
+  site: https://www.instagram.com/motoclubetigredourado/
+  title: Inhapi Moto Fest
+  uf: AL
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=59
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64ef51b53d871_2023-08-30_IdUser_1.jpg
+  city: Boca da Mata
+  contact: Antônio Roque
+  date: 2023-11-12
+  days: 12
+  location: Água Viva Banho Clube
+  phone: (82) 9 9906-5059
+  site: https://www.instagram.com/motogrupoaguia
+  title: Boca da Mata na Rota da Emoção
+  uf: AL
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=96
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499fa4a0fac4_2023-06-26_IdUser_1.jpg
+  city: Campina Grande
+  contact: Álvaro Lucena
+  date: 2023-11-16
+  days: 16, 17, 18 e 19
+  location: Parque do Povo - Centro
+  phone: (83) 9 9999-3997
+  site: https://motociclismodobrasil.com.br/motoclubes/motoclube_2842.html
+  title: 18 Anos Campina Grande Motofest
+  uf: PB
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=60
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499fb1e7df42_2023-06-26_IdUser_1.jpg
+  city: Belo Jardim
+  contact: Arquimedes
+  date: 2023-11-17
+  days: 17, 18 e 19
+  location: Praça da Estação
+  phone: (81) 9 9176-4696
+  site: https://www.instagram.com/gavioesdobitury/
+  title: Belo Jardim Motofest
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=61
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64cd3cf0f21ec_2023-08-04_IdUser_1.jpg
+  city: Uiraúna
+  contact: Reginaldo Queiroga
+  date: 2023-11-24
+  days: 24, 25 e 26
+  location: Praça Pública
+  phone: (83) 9 9810-5884
+  site: https://www.instagram.com/motoclubecanaa/
+  title: Uiraúna Motofest 2023
+  uf: PB
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=72
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499fd6d81cea_2023-06-26_IdUser_1.jpg
+  city: Carnaíba
+  contact: Queiroz (Rota 320)
+  date: 2023-11-24
+  days: 24, 25 e 26
+  location: Praça de Eventos de Carnaíba
+  phone: (87) 9 9635-9457
+  site: https://www.instagram.com/motocluberota320/
+  title: Carnaíba Moto Fest
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=63
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6499fc530b3fa_2023-06-26_IdUser_1.jpg
+  city: Garanhuns
+  contact: Jucélio Guará
+  date: 2023-11-24
+  days: 24 e 25
+  location: Não Informado
+  phone: (87) 9 9917-6944
+  site: https://garanhuns.pe.gov.br/
+  title: Guaránhuns Motofest
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=62
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/652eb8912bd51_2023-10-17_IdUser_1.jpg
+  city: Esperança
+  contact: Germano Batera
+  date: 2023-12-01
+  days: 01, 02 e 03
+  location: Rua Manoel Rodrigues de Oliveira, Centro.
+  phone: (83) 9 9976-4846
+  site: ranygermano6@gmail.com
+  title: Esperança Moto Fest
+  uf: PB
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=118
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/652eb7ff9799e_2023-10-17_IdUser_1.jpg
+  city: Natal
+  contact: Laércio
+  date: 2023-12-01
+  days: 01, 02 e 03
+  location: Largo do Ginário Nélio Dias
+  phone: (84) 9 8709-0960
+  site: adolfo_eutimia@hotmail.com
+  title: Moto Confraria Natal 12ª Edição/2023
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=117
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/650da4f3a9ad7_2023-09-22_1.jpg
+  city: Jaboatão dos Guararapes
+  contact: Cabeça de Fósforo Dir. de Comunicação
+  date: 2023-12-02
+  days: 02
+  location: Clube dos Ferroviários de Jaboatão. Travessa Barão de Lucena, 46. Centro
+  phone: (81) 9 9987-8822
+  site: strongsmcbrasil@gmail.com
+  title: Aniversário do Strong´s MC e Indomáveis MC
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=64
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/652eb65321495_2023-10-17_IdUser_1.jpg
+  city: Paulista
+  contact: Deninho
+  date: 2024-01-26
+  days: 26, 27 e 28
+  location: Centro
+  phone: (83) 9 9895-5221
+  site: cleydsonstreetwheeling@gmail.com
+  title: Encontro de Motociclistas
+  uf: PB
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=115
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64f61c32dc83c_2023-09-04_IdUser_1.jpg
+  city: São Paulo do Potengi
+  contact: Fernando Silva
+  date: 2024-02-01
+  days: 01, 02, 03 e 04
+  location: Pavilhão do Povo
+  phone: (84) 9 9983-9874
+  site: rogerioguilherme@hotmail.com
+  title: Moto Fest São Paulo do Potengi
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=102
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64ff0839997ce_2023-09-11_IdUser_1.jpg
+  city: Taquaritinga do Norte
+  contact: Luis Carlos Urubu
   date: 2024-02-29
-  title: TAQUARATINGA MOTOFEST
+  days: 29, 01/03, 02/03 e 03/03
+  location: Centro
+  phone: (81) 9 9502-7014
+  site: drluanferreira.endodontia@gmail.com
+  title: Taquaritinga MotoFest
   uf: PE
-- city: CRATO
-  date: 2024-03-01
-  title: CARIRI MOTOFEST
-  uf: CE
-- city: PRADO
-  date: 2024-03-05
-  title: MOTO ROCK PRADO
-  uf: BA
-- city: PRADO
-  date: 2024-03-06
-  title: PRADO MOTOROCK
-  uf: BA
-- city: ITALVA
-  date: 2024-03-09
-  title: 10 ANOS ITALVA MG
-  uf: RJ
-- city: CAMPINA GRANDE
-  date: 2024-03-09
-  title: 6 ANIVERSÁRIO CORVOS MC
-  uf: PB
-- city: PESQUEIRA
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=106
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/65ee192b275f1_2024-03-10_IdUser_1.jpeg
+  city: Pesqueira
+  contact: Cats do Asfalto
   date: 2024-03-15
-  title: XI PESQUEIRA MOTOFEST
+  days: 15, 16 e 17
+  location: Aguardando Atualização pela organização do Evento
+  phone: 87 9 9253 2040
+  site: leo@arqueirosdeaco.com.br
+  title: XI Pesqueira Moto Fest
   uf: PE
-- city: RIO DE CONTAS
-  date: 2024-03-15
-  title: 7° ENCONTRO NACIONAL MOTOCICLISTAS
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=123
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/65ee1b02418b6_2024-03-10_IdUser_1.jpeg
+  city: Milagres
+  contact: MOTO GRUPO JUÍZO DE FERRO
+  date: 2024-03-16
+  days: 16
+  location: Praça da Juventude
+  phone: 
+  site: leo@arqueirosdeaco.com.br
+  title: MOTOFEST MILAGRES
   uf: BA
-- city: TORITAMA
-  date: 2024-03-16
-  title: INAUGURAÇÃO DA SEDE RESURGIDOS
-  uf: PE
-- city: CORAÇÃO DE MARIA
-  date: 2024-03-16
-  title: CORAÇÃO MOTO FEST
-  uf: BA
-- city: MILAGRES
-  date: 2024-03-16
-  title: 2° MOTOFEST
-  uf: BA
-- city: CARAÚBAS
-  date: 2024-03-16
-  title: 1° BATE E FICA DAS CARAUBEIRAS
-  uf: RN
-- city: UMBIZEIRO
-  date: 2024-03-16
-  title: 6 ANIVERSÁRIO KARKARÁ MC
-  uf: PB
-- city: LAURO DE FREITAS
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=124
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/65242f85e5087_2023-10-09_IdUser_1.jpg
+  city: Penedo
+  contact: Carlinhos
   date: 2024-03-22
-  title: 1° MOTO FEST
-  uf: BA
-- city: PENEDO
-  date: 2024-03-22
-  title: 12° PENEDO MOTO FEST
+  days: 22, 23 e 24
+  location: Orla Ribeirinha
+  phone: (82) 9 9964-1293
+  site: fazendalagoacomprida@hotmail.com
+  title: Penedo Motofest
   uf: AL
-- city: CARUARU
-  date: 2024-03-24
-  title: PASSEIO DA PAIXÃO
-  uf: PE
-- city: GOVERNADOR MANGABEIRA
-  date: 2024-03-24
-  title: BATE E VOLTA SOLIDÁRIO
-  uf: BA
-- city: BARRA DE MARATAÍZES
-  date: 2024-03-29
-  title: ANIVERSÁRIO CAVEIRAS DO LITORAL MC
-  uf: ES
-- city: CABEDELO
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=114
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/651c173e9688b_2023-10-03_IdUser_1.jpg
+  city: São Bento
+  contact: Tomaz
   date: 2024-04-05
-  title: CABEDELO MOTOFEST
+  days: 05, 06 e 07
+  location: Praça Alzira Alves de Brito (Rua Velha)
+  phone: 83 9 9659-5150
+  site: tomaz.alberto@hotmail.com
+  title: São Bento Moto Fest
   uf: PB
-- city: SÃO BENTO
-  date: 2024-04-05
-  title: 10 ANOS  SÃO BENTO MOTOFEST 
-  uf: PB
-- city: CONCEIÇÃO DA APARECIDA
-  date: 2024-04-05
-  title: MOTO & ROCK FEST
-  uf: MG
-- city: MONTES CLAROS
-  date: 2024-04-05
-  title: MOTOMOC
-  uf: MG
-- city: MATA GRANDE
-  date: 2024-04-06
-  title: 2° MATA GRANDE MOTO FEST
-  uf: AL
-- city: SALVADOR
-  date: 2024-04-07
-  title: 1 ANIVERSÁRIO CAÇADORES MG
-  uf: BA
-- city: SALVADOR
-  date: 2024-04-07
-  title: AVINERSÁRIO CAÇADORES MG
-  uf: BA
-- city: POÇO VERDE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=113
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6616a95fe7ae0_2024-04-10_IdUser_1.jpg
+  city: Poço Verde
+  contact: El Loko do Asfalto
   date: 2024-04-13
-  title: 13 MOTO FEST POÇO VERDE
+  days: 13 e 14
+  location: Espetinho do Careca
+  phone: 99 9999-9999
+  site: 
+  title: Moto Fest Poço Verde
   uf: SE
-- city: CÍCERO DANTAS
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=132
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/65ef74403c2ba_2024-03-11_IdUser_1.jpeg
+  city: Pirapora
+  contact: Moto Clube Dourados do Asfalto
   date: 2024-04-19
-  title: BOM CONCELHO MOTO WEEK
+  days: 19, 20 e 21
+  location: Orla Fluvial
+  phone: 99 9999-9999
+  site: leo@arqueirosdeaco.com.br
+  title: MotorFest Pirapora
+  uf: MG
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=126
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/660ee12c48eea_2024-04-04_IdUser_1.jpg
+  city: Cícero Dantas
+  contact: Phelipe Alves e Ringli Arize
+  date: 2024-04-19
+  days: 19 e 20
+  location: EM FRENTE AO BAR TIRA FINO CICERO DANTAS BA
+  phone: (99) 9 9999-9999
+  site: https://www.instagram.com/cicerodantas.bahia/
+  title: Bom conselho Moto Week
   uf: BA
-- city: ÁGUIA BRANCA
-  date: 2024-04-19
-  title: ÁGUIA BRANCA MOTO FEST
-  uf: ES
-- city: PIRAPORANGA
-  date: 2024-04-19
-  title: MOTOFEST PIRAPORANGA
-  uf: MG
-- city: JUIZ DE FORA 
-  date: 2024-04-21
-  title: 14 ANOS DE BANDEIRA DESBRASADOS
-  uf: MG
-- city: SAQUAREMA
-  date: 2024-04-23
-  title: SAQUA MOTO ROCK
-  uf: RJ
-- city: PAULO AFONSO
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=131
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/66057623aefa2_2024-03-28_IdUser_1.jpg
+  city: Paulo Afonso
+  contact: Associação de Motociclistas do Estado da Bahia
   date: 2024-04-25
-  title: MOTO PAULO AFONSO
+  days: 25, 26 e 27
+  location: Praça espaço cultural Lindinalva Cabral
+  phone: (99) 9 9999-9999
+  site: leo@arqueirosdeaco.com.br
+  title: Paulo Afonso Moto Fest
   uf: BA
-- city: PARNAÍBA
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=129
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/661daeacdcaaf_2024-04-15_IdUser_1.jpg
+  city: Ceará
+  contact: Prefeitura municipal de Ceará-Mirim
   date: 2024-04-26
-  title: VIII ENC. NACIONAL MOTOCICLISTAS MOTOROCKER
-  uf: PI
-- city: PARAIBA DO SUL
-  date: 2024-04-26
-  title: 25° ENCONTRO NACIONAL DE MOTOCICLISTAS
-  uf: RJ
-- city: IUNA
-  date: 2024-04-26
-  title: IÚNA MOTOFEST
-  uf: ES
-- city: SEABRA
-  date: 2024-04-27
-  title: 8 ANIVERSARIO BLOOD BROTHERS MC
-  uf: BA
-- city: VALENTE
-  date: 2024-05-03
-  title: 2 VALENTE MOTO FESTIVAL
-  uf: BA
-- city: SANTA LUZIA
-  date: 2024-05-03
-  title: SABUGY MOTOFEST
-  uf: PB
-- city: GUAJARÁ-MIRIM
-  date: 2024-05-03
-  title: 1 ENCONTRO FERROVIA MC
-  uf: RO
-- city: ILHA DE SANTANA - CAICÓ
-  date: 2024-05-11
-  title: 6 ITANS MRC FEST
-  uf: RN
-- city: SALGUEIRO
+  days: 26, 27 e 28
+  location: Largo do Mercado Público
+  phone: 99 9999-9999
+  site: https://www.instagram.com/prefeituracearamirim/
+  title: Ceará-Mirim Moto Fest
+  uf: Mirim
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=133
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/650c80aa62a1a_2023-09-21_IdUser_1.jpg
+  city: Arcoverde
+  contact: Lelé Marques
+  date: 2024-05-09
+  days: 09, 10, 11 e 12
+  location: Praça Winston Siqueira, Centro.
+  phone: (87) 9 9653-8452
+  site: alexsandro.marques2014@hotmail.com
+  title: Portal do Sertão Moto Fest
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=109
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/66340a4f90af0_2024-05-02_IdUser_1.jpg
+  city: Salgueiro
+  contact: Prefeitura de Salgueiro
   date: 2024-05-16
-  title: 15° SALGUEIRO MOTO FEST
+  days: 16, 17, 18 e 19
+  location: Polo Bomba
+  phone: 99 9999-9999
+  site: https://www.instagram.com/salgueiro_motofest/
+  title: SAUGUEIRO MOTO FEST
   uf: PE
-- city: BURITIS
-  date: 2024-05-17
-  title: 5° BURITIS MOTOFEST
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=135
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/660adcdac5b79_2024-04-01_IdUser_42.jpg
+  city: Uberlândia
+  contact: Angel Nunes Baldo
+  date: 2024-05-18
+  days: 18 a 19 de Maio
+  location: Teatro Municipal - Av Rondon Pacheco, 7070
+  phone: MC Amigos da Estrada Uberlândia
+  site: 34 997926447
+  title: Uberlândia Motofest
   uf: MG
-- city: TABIRA
-  date: 2024-05-24
-  title: TABIRA MOTOFEST
-  uf: PE
-- city: BARREIRAS
-  date: 2024-05-24
-  title: 5° BARREIRAS MOTO NACIONAL
-  uf: BA
-- city: CURRAIS NOVOS
-  date: 2024-05-24
-  title: CACTUS MOTO FEST
-  uf: RN
-- city: CAMPO DOS GOYTACAZAES
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=130
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/664c7ffb86e61_2024-05-21_IdUser_46.jpg
+  city: Brejo Santo
+  contact: Luciano Dantas Belém
+  date: 2024-05-25
+  days: 25 e 26
+  location: Usina show bar - Pracinha da Aldeota
+  phone: Moto Clube Brejo Santo
+  site: (88) 99616-0208
+  title: Aniversário moto clube brejo santo
+  uf: CE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=140
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6645d7fe53274_2024-05-16_IdUser_1.jpg
+  city: Barra dos Coqueiros
+  contact: Moto Clube espírito sergipano
   date: 2024-05-31
-  title: CAMPOS MOTO FEST
-  uf: RJ
-- city: CUSTÓDIA
-  date: 2024-06-01
-  title: CUSTÓDIA MOTOFEST 2024
-  uf: PE
-- city: CONSELHEIRO PENA
-  date: 2024-06-01
-  title: BATE FICA 2024
-  uf: MG
-- city: MIGUEL PEREIRA
-  date: 2024-06-07
-  title: XXVIII ENCONTRO INTER. DE MOTOCICLISTAS
-  uf: RJ
-- city: BEBERIBE
-  date: 2024-06-07
-  title: BEBERIBE MOTOFEST
-  uf: CE
-- city: SERROLÂNDIA
-  date: 2024-06-09
-  title: FEIJOADA DOS MOTOCICLISTAS DE SERROLÂNDIA
-  uf: BA
-- city: CARANGOLA
-  date: 2024-06-14
-  title: 22° ANIVERSÁRIO MC PAPA ROAD
-  uf: MG
-- city: SÃO JOÃO DO PARAISO
-  date: 2024-06-14
-  title: TIAS MOTOROCK
-  uf: MG
-- city: CHAPADINHA
-  date: 2024-06-15
-  title: 5° BATE E FICA PELICANO DO ASFALTO
-  uf: MA
-- city: CHAPADINHA
-  date: 2024-06-15
-  title: 5 BATE E FICA - PELICANO DO ASFALTO
-  uf: MA
-- city: DUQUE DE CAXIAS
-  date: 2024-06-22
-  title: ENCONTRO NACIONAL DE MOTOCICLISTAS
-  uf: RJ
-- city: PEDRO CANÁRIO
-  date: 2024-06-23
-  title: 7° ANIVERSÁRIO MC METE MARCHA
-  uf: ES
-- city: ACARI
-  date: 2024-06-28
-  title: ACARI MOTOFEST
-  uf: RN
-- city: ILHEUS
-  date: 2024-07-04
-  title: ILHEUS MOTO PRAIA
-  uf: BA
-- city: SERRA GRANDE
-  date: 2024-07-05
-  title: 3° FESTIVAL DE INVERNO DA CIDADE DE SERRA GRANDE
-  uf: PB
-- city: CARNAÚBA DOS DANTAS
-  date: 2024-07-05
-  title: CARNAUBA MOTO FEST
-  uf: RN
-- city: NOVA LIMA
-  date: 2024-07-06
-  title: 25 ANOS AVENTUREIROS DA LIBERDADE MC
-  uf: MG
-- city: ESPÍNOSA
-  date: 2024-07-07
-  title: GERAIZEIROS MOTO ROCK
-  uf: MG
-- city: PETROLINA
-  date: 2024-07-11
-  title: MOTOCHICO 2024
-  uf: PE
-- city: PETROLINA
-  date: 2024-07-11
-  title: MOTO CHICO
-  uf: PE
-- city: SOUSA
-  date: 2024-07-12
-  title: SOUSA MOTO FEST
-  uf: PB
-- city: PEDRA LAVRADA
-  date: 2024-07-12
-  title: PEDRA LAVRADA MOTOFEST
-  uf: PB
-- city: PONTÕES
-  date: 2024-07-13
-  title: MOTO FEST
-  uf: MG
-- city: BRASÍLIA
-  date: 2024-07-18
-  title: CAPITAL MOTO WEEK
-  uf: DF
-- city: COELHO NETO
-  date: 2024-07-19
-  title: 10° EDIÇÃO MOTOFEST - MC OS TARJA PRETA
-  uf: MA
-- city: MACEIÓ
-  date: 2024-07-26
-  title: ALAGOAS MOTO ENCONTRO
-  uf: AL
-- city: VALENTE
-  date: 2024-07-27
-  title: 3° ANIVERSÁRIO MC TEMPO LIVRE
-  uf: BA
-- city: ITAETÊ
-  date: 2024-08-02
-  title: 2° ITAETÊ MOTO FEST
-  uf: BA
-- city: DELMIRO GOUVEIA
-  date: 2024-08-02
-  title: DELMIRO GOUVEIA MOTOFEST
-  uf: AL
-- city: ALEGRE
-  date: 2024-08-02
-  title: LOST RIDERS CAPARAÓ MOTO FEST
-  uf: ES
-- city: EUNÁPOLIS
-  date: 2024-08-09
-  title: 2° EUNÁPOLIS MÔFOROCK
-  uf: BA
-- city: MUTUÍPE
-  date: 2024-08-09
-  title: 2° MOTUÍPE
-  uf: BA
-- city: PREÁ
-  date: 2024-08-16
-  title: 1° PREÁ MOTOFEST
-  uf: CE
-- city: IATI
-  date: 2024-08-16
-  title: 10 IATI MOTOFEST
-  uf: PE
-- city: ALAGOINHAS
-  date: 2024-08-16
-  title: ALAGOINHAS MOTO FEST
-  uf: BA
-- city: PATOS
-  date: 2024-08-16
-  title: PATOS MOTO FEST
-  uf: PB
-- city: POJUCA
-  date: 2024-08-23
-  title: 3° MOTOFEST AVES DE .PINA
-  uf: BA
-- city: MIMOSO DO SUL
-  date: 2024-08-30
-  title: 2° MOTOFEST IRON WOLVES MC
-  uf: ES
-- city: CONCEIÇÃO DA BARRA
-  date: 2024-09-06
-  title: 2° MOTOFEST
-  uf: ES
-- city: SALVADOR
-  date: 2024-09-06
-  title: BAHIA IN MOTO
-  uf: BA
-- city: CONCEIÇÃO DA BARRA
-  date: 2024-09-06
-  title: MOTO FEST
-  uf: ES
-- city: AMARGOSA
-  date: 2024-09-06
-  title: AMARGOSA MOTO FESTIVAL
-  uf: BA
-- city: TRIUNFO
-  date: 2024-09-12
-  title: TRIUNFO MOTOFEST
-  uf: PE
-- city: STO. ANTÔNIO DE JESUS
-  date: 2024-09-13
-  title: 3° SAJ MOTOFEST
-  uf: BA
-- city: PÉ DE SERRA
-  date: 2024-09-13
-  title: 2° MOTO FEST PÉ DE SERRA
-  uf: BA
-- city: SANTANA DO IPANEMA
-  date: 2024-09-13
-  title: VI SANTANA DO IPANEMA MOTOFEST
-  uf: AL
-- city: SANTO ANTÔNIO DE JESUS
-  date: 2024-09-13
-  title: 3° SAJ MOTOFEST
-  uf: BA
-- city: NANUQUE
-  date: 2024-09-14
-  title: 7° ANIVERSÁRIO ANJOS NEGROS MC
-  uf: MG
-- city: INHAMBUPE
-  date: 2024-09-20
-  title: 2° MOTOFEST BALA EST.DEIRO
-  uf: BA
-- city: SÍTIO DO CONDE
-  date: 2024-09-20
-  title: 3° SÍTIO DO CONDE MOTO PRAIA
-  uf: BA
-- city: CRUZ DAS ALMAS
-  date: 2024-09-27
-  title: MOTO CRUZ
-  uf: BA
-- city: TOUROS
-  date: 2024-09-27
-  title: ENCONTRO DE MOTOCICLISTAS
-  uf: RN
-- city: JANDAÍ
-  date: 2024-09-28
-  title: 9° JANDAÍ.
-  uf: BA
-- city: JANDAÍRA
-  date: 2024-09-28
-  title: JANDAÍRA
-  uf: BA
-- city: ALDEIA DOS CAMARÁS
-  date: 2024-09-28
-  title: DEUSES DO OLIMPO
-  uf: PE
-- city: SALVADOR
-  date: 2024-10-05
-  title: 9° ANIVERSÁRIO BRUTAMONTES
-  uf: BA
-- city: RECIFE
-  date: 2024-10-05
-  title: ANIVERSÁRIO DEUSES DO OLIMPO
-  uf: PE
-- city: TIANGUÁ
-  date: 2024-10-10
-  title: MOTO FEST
-  uf: CE
-- city: NAZARÉ
-  date: 2024-10-11
-  title: 2 TRI FESTIVAL DE NAZARÉ
-  uf: BA
-- city: JOÃO PESSOA
-  date: 2024-10-11
-  title: 2 ENCONTRO DE MOTOCASAIS DO NORDESTE
-  uf: PB
-- city: ITAPEMIRIM
-  date: 2024-10-18
-  title: 5° ITAPEMIRIM PRAIA MOTOFEST
-  uf: ES
-- city: GRAVATÁ
-  date: 2024-10-18
-  title: GRAVATÁ MOTOGEST
-  uf: PE
-- city: SALVADOR
-  date: 2024-10-19
-  title: 10° ANIVERSÁRIO FUNDAÇÃO WOLF MC
-  uf: BA
-- city: JEQUIÉ
-  date: 2024-10-25
-  title: JEQUIÉ MOTO CAR
-  uf: BA
-- city: CANAVIEIRAS
-  date: 2024-10-31
-  title: 6° CANES MOTO FEST
-  uf: BA
-- city: ALAGOINHAS
-  date: 2024-11-03
-  title: 9° ANIVERSÁRIO MOTO CLUBE JORRENSE
-  uf: BA
-- city: FEIRA DE SANTANA
-  date: 2024-11-07
-  title: MEGA MOTO FEIRA
-  uf: BA
-- city: INHAPI
-  date: 2024-11-08
-  title: INHAPI MOTO FEST - MC TIGRE DOURADO
-  uf: AL
-- city: MONTEIRO
-  date: 2024-11-08
-  title: EMOCAP - ENC.MOTOCICLISTAS DO CARIRI PARAIBANO
-  uf: PB
-- city: RIO DAS OSTRAS
-  date: 2024-11-09
-  title: 19° ANIVERSÁRIO DO MC FÊNIX BRASIL
-  uf: RJ
-- city: ITUAÇU
-  date: 2024-11-15
-  title: ENCONTRO NACIONAL DE MOTOCICLISTAS
-  uf: BA
-- city: CAMPINA GRANDE
-  date: 2024-11-21
-  title: 19º CAMPINA GRANDE MOTOFEST
-  uf: PB
-- city: AQUIRAZ
-  date: 2024-11-23
-  title: ANIVERSÁRIUO MC GAVIÕES DA ESTRADA
-  uf: CE
-- city: GARANHUNS
-  date: 2024-11-29
-  title: 19 GARANHUNS MOTOFEST
-  uf: PE
-- city: ALAGOINHAS
-  date: 2024-11-30
-  title: ANIVERSÁRIO T-REX
-  uf: BA
-- city: DIVINO
-  date: 2024-12-06
-  title: 3° DIVINO MOTOFEST E 5° ANIVERSÁRIO DOS INÚTEIS MG
-  uf: MG
-- city: NOSSA SRA. DA GLÓRIA
-  date: 2024-12-08
-  title: 2° BATE E VOLTA ROTA DO SERTÃO DO FOX MC
+  days: 31/05 e 01/06
+  location: Espaço cultural de atalaia, nova barra dos coqueiros.
+  phone: 79996003090
+  site: https://www.instagram.com/mcespiritosergipano?igsh=ejRocXlrMDRydWE=
+  title: 20 Anos do Moto Clube espírito sergipano
   uf: SE
-- city: SENHOR DO BONFIM
-  date: 2024-12-12
-  title: BYE BYE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=136
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/664b80eba4f13_2024-05-20_IdUser_1.jpg
+  city: Custódia
+  contact: Custódia Moto Fest
+  date: 2024-06-01
+  days: 01 e 02
+  location: Praça Padre Leão
+  phone: 87 9 9919 8858
+  site: https://www.instagram.com/custodiamotofest2024/
+  title: Custódia Moto Fest
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=139
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6645f21884429_2024-05-16_IdUser_1.jpg
+  city: Ilhéus
+  contact: Ilheus Moto Praia
+  date: 2024-07-04
+  days: 04, 05 e 06
+  location: AVENIDA SOARES LOPES, EM FRENTE AO COLÉGIO SÃO JORGE CENTRO-ILHÉUS-BAHIA
+  phone: 73 99983 8101
+  site: https://www.instagram.com/ilheusmotopraia/
+  title: ILHÉUS MOTO PRAIA
   uf: BA
-- city: ALAGOINHAS
-  date: 2024-12-21
-  title: ANIVERSÁRIO PRESIDENTE CLEBER FIBRAS MC BAHIA
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=137
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/666e35f9806a0_2024-06-15_IdUser_1.jpg
+  city: Petrolina
+  contact: Moto Grupo Moto Chico
+  date: 2024-07-11
+  days: 11, 12, 13 e 14
+  location: Aguardando atualização
+  phone: 81 9 9999-9999
+  site: https://www.instagram.com/motochicobrasil/
+  title: 23º Moto Chico 2024
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=146
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/65fc1b64528b2_2024-03-21_IdUser_1.jpg
+  city: Brasília
+  contact: Capital Moto Week
+  date: 2024-07-18
+  days: 18 à 27 de Julho
+  location: PARQUE DE EXPOSIÇÃO GRANJA DO TORTO
+  phone: (61) 99531-3553
+  site: motoclubes@capitalmotoweek.com.br
+  title: Capital Moto Week
+  uf: DF
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=128
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/65bf825177c38_2024-02-04_IdUser_1.jpeg
+  city: Maceió
+  contact: Federação de moto clubes e moto grupos do estado de Alagoas.
+  date: 2024-07-26
+  days: 26, 27 e 28
+  location: Aguardando atualização.
+  phone: (82) 9 8829 4479
+  site: https://www.instagram.com/fmcaloficial/
+  title: PARAÍSO DAS ÁGUA MOTO ENCONTRO. - Evento Cancelado
+  uf: AL
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=120
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/64d2c27b1d512_2023-08-08_IdUser_1.jpg
+  city: João Câmara
+  contact: Aragão
+  date: 2024-07-26
+  days: 26, 27 e 28
+  location: Praça Monsenhor Freitas
+  phone: (84) 9 9947-6378
+  site: joaocamaramotofest@gmail.com
+  title: João Câmara Moto Fest
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=73
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/664cd38e47986_2024-05-21_1.jpg
+  city: Juazeiro do Norte
+  contact: Ednaldo Vieira
+  date: 2024-07-26
+  days: 26, 27 e 28
+  location: Parque de Eventos Pe. Cícero
+  phone: Cúpula
+  site: 88 9 9959 3473
+  title: Amigos Kariri Moto Fest
+  uf: CE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=141
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/666e3369941d6_2024-06-15_IdUser_1.jpg
+  city: Maceió
+  contact: Marcos Valença
+  date: 2024-07-28
+  days: 28
+  location: Estacionamento do Jaraguá
+  phone: 82 9 99179-6285
+  site: 
+  title: 7º Passeio Motociclistico
+  uf: AL
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=145
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/666e386587ee9_2024-06-15_IdUser_1.jpg
+  city: Maceió
+  contact: Carlos e Wanderley
+  date: 2024-08-08
+  days: 08, 09, 10 e 11
+  location: Estacionamento do Jaraguá
+  phone: 87 9 9997-0036
+  site: https://www.instagram.com/maceiocapitalmotofest/
+  title: Maceió Capital Moto Fest
+  uf: AL
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=147
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/6645f4d450a51_2024-05-16_IdUser_1.jpg
+  city: Patos
+  contact: AMO Patos - Associação dos Motociclistas
+  date: 2024-08-16
+  days: 16, 17 e 18
+  location: Terreiro do Forró
+  phone: 99 9999-9999
+  site: www.facebook.com/patosmotofest?mibextid=ZbWKwL
+  title: Patos Moto Fest
+  uf: PB
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=138
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/65f9bc19cda5e_2024-03-19_IdUser_41.jpg
+  city: Recife
+  contact: MALHAIN FRANCISCA DOS SANTOS
+  date: 2024-08-25
+  days: 25 de Agosto  - Domingo
+  location: Em breve mais informações
+  phone: LANE SANTOS
+  site: 81985529686
+  title: ANIVERSÁRIO ESTRADEIRAS ARRETADAS MOTOCLUBE
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=127
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/65c267f4867b9_2024-02-06_IdUser_38.jpeg
+  city: Parelhas
+  contact: GIGLIANGELO ADRIANO DA SILVA LIMA
+  date: 2024-09-06
+  days: De 06/09 a 08/09
+  location: Praça Arnaldo Bezerra, Centro.
+  phone: Cachorros Loucos Moto Clube
+  site: 84981139340
+  title: 13 Parelhas Moto Fest
+  uf: RN
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=122
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/65141e48a58e1_2023-09-27_IdUser_1.jpg
+  city: Santana do Ipanema
+  contact: Cleudson Nobre
+  date: 2024-09-13
+  days: 13, 14 e 15
+  location: Largo Cônego José Bulhões
+  phone: (82) 9 9318-0879
+  site: nacal.nacal.nacal@gmail.com
+  title: VI Motofest
+  uf: AL
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=110
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/664cd5753a7b7_2024-05-21_IdUser_1.jpg
+  city: Conde
+  contact: Ghost Rider
+  date: 2024-09-13
+  days: 13 e 14
+  location: Agurdando atualização
+  phone: 75 9 9926-5813
+  site: https://www.instagram.com/ghostrider.divulgacoes/
+  title: Sítio do Conde Moto Praia
   uf: BA
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=142
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/653bc4d12cd91_2023-10-27_IdUser_1.jpg
+  city: Caruaru
+  contact: Wedson Ferreira
+  date: 2024-09-26
+  days: 26, 27, 28 e 29
+  location: Parque de Eventos Luiz Lua Gonzaga.
+  phone: (81) 9 9188-7888
+  site: motofestcaruaru@gmail.com
+  title: Caruaru Motofest 2024
+  uf: PE
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=119
+- banner: https://arqueirosdeaco.com.br/agenda//img/imagens_eventos/661db00b6c633_2024-04-15_IdUser_1.jpg
+  city: Inhapi
+  contact: Moto Clube Tigre dourado
+  date: 2024-11-08
+  days: 08, 09 e 10
+  location: Centro da Cidade
+  phone: 99 9999-9999
+  site: https://www.instagram.com/motoclubetigredourado/
+  title: Inhapi Moto Fest
+  uf: AL
+  url: https://arqueirosdeaco.com.br/agenda//php/evento.php?evn=134
 title: Eventos
