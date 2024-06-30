@@ -15,7 +15,7 @@ Para nos apoiar a tornar essa comunidade cada vez maior escaneie o QRCode abaixo
 </center>
 
 <p>
-Caso não seja viável, pedimos seu apoio nas redes sociais do @mo7o.club no <a href="https://instagram.com/mo7o.club">instagram</a>, <a href="https://www.tiktok.com/@mo7o.club">TikTok</a> para que assim possamos chegar cada vez mais longe.
+Caso não seja viável, pedimos seu apoio nas redes sociais do @mo7o.club no <a href="https://youtube.com/@mo7oclub">Youtube</a>, <a href="https://instagram.com/mo7o.club">instagram</a>, <a href="https://www.tiktok.com/@mo7o.club">TikTok</a> para que assim possamos chegar cada vez mais longe.
 </p>
 
 </div>
