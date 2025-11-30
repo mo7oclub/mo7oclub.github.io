@@ -1,0 +1,9 @@
+---
+layout: post
+title:  'Um dia em Marechal Deodoro'
+date:   2025-10-21 00:00:00 -0300
+categories: ap2
+---
+
+
+{% include youtubePlayer.html id='thC9QZTbgy0' %}

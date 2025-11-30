@@ -1,0 +1,9 @@
+---
+layout: post
+title:  'Viagem à Arapiraca com direito à caldinho em Capela na volta'
+date:   2025-09-22 00:00:00 -0300
+categories: ap2
+---
+
+
+{% include youtubePlayer.html id='AEmaK-_9NEs' %}

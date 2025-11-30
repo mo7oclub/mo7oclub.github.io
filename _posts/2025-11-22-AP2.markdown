@@ -1,0 +1,9 @@
+---
+layout: post
+title:  'Eva foi conhecer a Mello Vinícola em Garanhuns - PE'
+date:   2025-11-22 00:00:00 -0300
+categories: ap2
+---
+
+
+{% include youtubePlayer.html id='utURu7zJzQ0' %}

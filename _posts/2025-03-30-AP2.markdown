@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Descobrimos o destino na viagem e quase perdemos nossa mochila"
+date:   2025-03-30 00:00:00 -0300
+categories: ap2
+---
+
+{% include youtubePlayer.html id="6SkPj6QPIuo" %}

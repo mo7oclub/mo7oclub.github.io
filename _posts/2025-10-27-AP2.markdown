@@ -1,0 +1,9 @@
+---
+layout: post
+title:  'Nosso final de semana em Palmeira dos Índios de moto'
+date:   2025-10-27 00:00:00 -0300
+categories: ap2
+---
+
+
+{% include youtubePlayer.html id='VUkhila60as' %}

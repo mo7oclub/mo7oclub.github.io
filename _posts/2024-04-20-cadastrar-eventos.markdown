@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Descubre como cadastrar seu evento no mo7o.club"
+title:  "Descubra como cadastrar seu evento no mo7o.club"
 date:   2024-04-20 18:11:00 -0300
 categories: events
 ---
