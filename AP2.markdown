@@ -8,11 +8,11 @@ Se você é apaixonado por viagens de moto e está em busca de roteiros incríve
 
 Venha se inspirar e descobrir novos destinos conosco!
 
-
+YouTube: [Alforge para 2](https://www.youtube.com/@AlforgePara2)
 
 <p>
 {%- if site.categories.ap2.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Última aventura" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Nossas aventuras" }}</h2>
     <ul class="post-list">
       {%- for post in site.categories.ap2 -%}
       <li>
