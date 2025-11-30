@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alforge Para 2
-permalink: /alforgepara2/
+permalink: /ap2/
 ---
 
 Se você é apaixonado por viagens de moto e está em busca de roteiros incríveis para explorar com sua companhia, você está no lugar certo! No nosso canal, compartilhamos nossas aventuras e experiências com a nossa fiel companheira, Eva (Meteor 350). 
